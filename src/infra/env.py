@@ -28,14 +28,15 @@ class ClusterEnv(gym.Env):
 
     def __init__(self, cpu, mem, episode_len=288, server_capacity=100.0,
                  min_servers=10, max_servers=60,
-                 overload_penalty=10.0, change_penalty=0.5, random_start=True):
+                 overload_penalty=50.0, sla_penalty=20.0, change_penalty=0.5, random_start=True):
         super().__init__()
         self.cpu = np.asarray(cpu, dtype=np.float32)
         self.mem = np.asarray(mem, dtype=np.float32)
         self.capacity = server_capacity
         self.min_servers = min_servers
         self.max_servers = max_servers
-        self.overload_penalty = overload_penalty  # 1 serveur manquant coûte 10x un serveur allumé
+        self.overload_penalty = overload_penalty  # 1 serveur manquant coûte 50x un serveur allumé
+        self.sla_penalty = sla_penalty            # coût fixe de toute violation du SLA
         self.change_penalty = change_penalty      # évite les oscillations
         self.random_start = random_start
         # Épisode complet si on ne tire pas de départ au hasard (mode évaluation)
@@ -80,7 +81,10 @@ class ClusterEnv(gym.Env):
         cap = self.n_servers * self.capacity
         missing = (max(0.0, self.cpu[self.t] - cap) + max(0.0, self.mem[self.t] - cap)) / self.capacity
 
-        cost = self.n_servers + self.overload_penalty * missing + self.change_penalty * change
+        cost = (self.n_servers
+                + self.overload_penalty * missing
+                + self.sla_penalty * (missing > 0)
+                + self.change_penalty * change)
         reward = -cost / self.max_servers
 
         truncated = self.steps >= self.episode_len

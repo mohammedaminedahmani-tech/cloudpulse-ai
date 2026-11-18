@@ -9,3 +9,6 @@ models/*.zip
 .ipynb_checkpoints/
 data/interim/
 .pytest_cache/
+!models/dqn_best/best_model.zip
+models/dqn_final.zip
+models/dqn_logs/
