@@ -8,3 +8,4 @@ models/*.pt
 models/*.zip
 .ipynb_checkpoints/
 data/interim/
+.pytest_cache/
