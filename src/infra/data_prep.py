@@ -4,6 +4,7 @@ import pandas as pd
 
 RAW_DIR = Path("data/raw/task_usage")
 OUT_FILE = Path("data/processed/cluster_load.csv")
+INTERIM_DIR = Path("data/interim")
 WINDOW_US = 300 * 1_000_000  # 5 minutes en microsecondes
 
 
@@ -16,15 +17,13 @@ def load_and_aggregate(path: Path) -> pd.DataFrame:
 
 
 def main():
-    files = sorted(RAW_DIR.glob("*.csv.gz"))
+    files = sorted(INTERIM_DIR.glob("*.csv"))
     if not files:
-        raise FileNotFoundError(f"Aucun fichier .csv.gz dans {RAW_DIR}")
+        raise FileNotFoundError(f"Aucun fichier dans {INTERIM_DIR} : lance d'abord download_traces")
 
-    # 1) Agrégation fichier par fichier (économise la RAM)
-    parts = []
-    for path in files:
-        print("Traitement de", path.name)
-        parts.append(load_and_aggregate(path))
+    # 1) Lecture des agrégats déjà calculés (un par fichier Google)
+    parts = [pd.read_csv(p, index_col="window") for p in files]
+    print(f"{len(files)} fichiers agrégés chargés")
 
     # 2) Ré-agrégation : une fenêtre peut être coupée entre deux fichiers
     charge = pd.concat(parts).groupby(level=0).sum()
@@ -32,16 +31,17 @@ def main():
     # 3) La dernière fenêtre continue dans un fichier non téléchargé -> on la retire
     charge = charge.iloc[:-1]
 
-    # 4) Temps en secondes (le numéro de fenêtre est dans l'index)
-    charge["timestamp"] = charge.index * 300
+    # 4) Vérification : y a-t-il des trous dans le temps ?
+    attendu = charge.index.max() - charge.index.min() + 1
+    print(f"Fenêtres manquantes : {attendu - len(charge)}")
 
-    # 5) Sauvegarde
+    # 5) Temps en secondes + sauvegarde
+    charge["timestamp"] = charge.index * 300
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     charge[["timestamp", "cpu", "mem"]].to_csv(OUT_FILE, index=False)
 
     print(f"{len(charge)} fenêtres sauvegardées dans {OUT_FILE}")
     print(f"Durée couverte : {len(charge) * 5 / 60:.1f} heures")
-
-
+    
 if __name__ == "__main__":
     main()

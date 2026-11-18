@@ -7,3 +7,4 @@ data/raw/
 models/*.pt
 models/*.zip
 .ipynb_checkpoints/
+data/interim/
