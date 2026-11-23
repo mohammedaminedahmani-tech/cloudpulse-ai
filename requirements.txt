@@ -7,3 +7,5 @@ torch
 onnx
 onnxruntime
 pytest
+scikit-learn
+requests
