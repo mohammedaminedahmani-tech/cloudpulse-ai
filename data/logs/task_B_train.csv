@@ -1,0 +1,1127 @@
+text,label
+RAS KERNEL FATAL fpr15=<HEX> ffffffff <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E7:E6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr30=<HEX> ffffffff <HEX> <HEX>,0
+RAS KERNEL INFO <NUM> L3 EDRAM error(s) (dcr <HEX>) detected and corrected,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:D8 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:F5:<NUM>:0D:<NUM>:E9:3A:0A ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO ciod: generated <NUM> core files for program IMB-MPI1.2KB_perf,0
+RAS KERNEL INFO <NUM> L3 EDRAM error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C6:9C:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R23-M1-L1 <NUM> F (J04) --> R43-M0-L1 <NUM> C (J06) is present BUT the reverse cable R43-M0-L1 <NUM> F (J12) --> R23-M1-L1 <NUM> C (J14) is missing,0
+RAS KERNEL FATAL program interrupt,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:A4:<NUM>:0D:<NUM>:EA:E0:5B ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <HEX> double-hummer alignment exceptions,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:BA:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J13 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:FE ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:1C:<NUM>:0D:<NUM>:EA:<NUM>:E3 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C6:3D:<NUM>:0D:<NUM>:E9:<NUM>:C2 ip=<IP> v=<NUM> t=<NUM> status=M Sat Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:AF ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R12-M0), mCardSernum(<HEX>), iWhichCardsToPwrOff(<NUM>)) by root",0
+RAS KERNEL INFO data cache search parity error detected. attempting to correct,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D7:AD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL uncorrectable error detected in directory <NUM>....<NUM>,0
+RAS KERNEL FATAL Power deactivated: R44-M1-NA,1
+RAS LINKCARD FATAL MidplaneSwitchController::sendTrain() port disconnected: R07-M1-L1-U19-E,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9F ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:DD caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:DD and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A B C X+ X- Y+ Y- Z+ Z- got: A B C X+ X- Y+ Z+ Z-,0
+RAS KERNEL FATAL fpr20=<HEX> ffffffff <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:AA ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> torus receiver x+ input pipe error(s) (dcr <HEX>) detected and corrected,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C3:8A:<NUM>:0D:<NUM>:E9:3C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F0:E0:<NUM>:0D:<NUM>:E9:0F:1F ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:4C:<NUM>:0D:<NUM>:EA:<NUM>:B3 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: R05-M0-NA,1
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6D), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS APP FATAL ciod: Error creating node map from file <PATH>:<NUM>:18Tue19Jul05<PATH>: Bad file descriptor,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:5C:<NUM>:0D:<NUM>:E9:1B:A3 ip=<IP> v=<NUM> t=<NUM> status=M Sat Dec <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+RAS KERNEL FATAL close EDRAM pages as soon as possible....<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E0:<NUM>:<NUM>:0D:<NUM>:E9:1F:9D ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:BF:AD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:2F:<NUM>:0D:<NUM>:E9:1B:D0 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL INFO ciod: Error opening node map file <PATH>, No such file or directory",0
+"RAS KERNEL INFO ciod: Error opening node map file map.dat, No such file or directory",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:5A:<NUM>:0D:<NUM>:E9:<NUM>:A5 ip=<IP> v=<NUM> t=<NUM> status=M Mon Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+"RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus y+ wire, suppressing further interrupts of same type",0
+RAS KERNEL FATAL external input interrupt (unit=<HEX> bit=<HEX>): torus sender y- retransmission error was corrected,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R37-M0-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:BF:3F:<NUM>:0D:<NUM>:E9:<NUM>:C0), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E3:<NUM>:<NUM>:0D:<NUM>:E9:1C:6D ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on R77-M0-L1-U19-C bit <NUM>,0
+RAS KERNEL FATAL fpr16=<HEX> ffffffff ffffffff ffffffff,0
+RAS KERNEL FATAL machine check interrupt,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:B1:<NUM>:0D:<NUM>:E9:<NUM>:4E ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL invalid (Inf-Inf)........................<NUM>,0
+RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on R06-M0-L3-U20-C bit <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:F6 ip=<IP> v=<NUM> t=<NUM> status=M Fri Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:D2:<NUM>:0D:<NUM>:E9:3A:2D ip=<IP> v=<NUM> t=<NUM> status=M Fri Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL tlb error.........................<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:CF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6E), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO ciod: Message code <NUM> is not <NUM> or <HEX>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E5:DA:<NUM>:0D:<NUM>:E9:1A:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO program interrupt: imprecise exception......<NUM>,0
+RAS KERNEL FATAL Power deactivated: R01-M1-NA,1
+RAS KERNEL FATAL fraction rounded.........................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7B:8E:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R22-M0-NA), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C7:F7:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY SEVERE While initializing service card iDo with LP of FF:F2:9F:<NUM>:1F:DB:<NUM>:0D:<NUM>:EA:E0:<NUM> caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:1F:DB:<NUM>:0D:<NUM>:EA:E0:<NUM> and IP=/<IP> because java.lang.RuntimeException: Communication error: (Direct,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6E ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E7:7D:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Target=ido://FF:F2:9F:<NUM>:BB:5E:<NUM>:0D:<NUM>:E9:<NUM>:A1<PATH> Message=Invalid JtagId = ffffffff,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R76-M1-NA), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:DA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9A), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:CD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C7:9D:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J08 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL Power deactivated: R03-M0-NE,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BF:2B:<NUM>:0D:<NUM>:E9:<NUM>:D4 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:8C ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL disable write lines <NUM>:<NUM>..................<NUM>,0
+"NULL DISCOVERY SEVERE Problem communicating with service card, ido chip: <HEX>:<HEX>:<HEX>:<HEX>:<HEX>:<HEX>. java.io.IOException: Could not find EthernetSwitch on port:address <NUM>:<NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:<NUM>:<NUM>:0D:<NUM>:E9:1D:AF ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J05 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:8E ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:C9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:AB ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CF ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:D9:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:D2:<NUM>:0D:<NUM>:E9:3A:2D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R16-M0-NE), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E3:<NUM>:<NUM>:0D:<NUM>:E9:1C:C7), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R75-M1), mCardSernum( <HEX>)) by pjmccart",0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R15-M1), mCardSernum( <HEX>)) by root",0
+"RAS KERNEL FATAL rts: kernel terminated for reason 1004rts: bad message header: expecting type <NUM>, type=<NUM>, cpu=<NUM>, index=<NUM>, total=<NUM>",1
+"RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus z+ wire, suppressing further interrupts of same type",0
+RAS KERNEL FATAL i-cache parity error..............<NUM>,0
+RAS KERNEL FATAL floating point operation....................<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:DF:5C:<NUM>:0D:<NUM>:E9:<NUM>:A3 ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL turn on hidden refreshes.................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:B8:<NUM>:0D:<NUM>:E9:1E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9C ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY SEVERE While initializing service card iDo with LP of FF:F2:9F:<NUM>:1F:D1:<NUM>:0D:<NUM>:EA:E0:2E caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:1F:D1:<NUM>:0D:<NUM>:EA:E0:2E and IP=/<IP> because java.lang.RuntimeException: Communication error: (DirectIDo fo,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R63-M0-NB), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:EA), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R00-M0-L0 <NUM> F (J11) --> R00-M1-L0 <NUM> C (J10) is present BUT the reverse cable R00-M1-L0 <NUM> F (J09) --> R00-M0-L0 <NUM> C (J08) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:FD ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL memory manager uncorrectable error...............<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BA:C6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:EE ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL rts: bad message header: cpu <NUM> invalid (softheader=<HEX> <HEX> <HEX> <HEX>) PSR0=<HEX> PSR1=<HEX> PRXF=<HEX> PIXF=<HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R61-M1), mCardSernum( <HEX>)) by root",0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R30-M0-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:CF:C3:<NUM>:0D:<NUM>:E9:<NUM>:3C), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"RAS APP FATAL ciod: Error reading message prefix on CioStream socket to <IP>, Connection timed out",1
+RAS KERNEL FATAL plus zero................................<NUM>,0
+RAS KERNEL INFO <NUM> torus sender z+ retransmission error(s) (dcr <HEX>) detected and corrected,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E0:D0:<NUM>:0D:<NUM>:E9:1F:2F ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:BB:CC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL fpr6=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B4:<NUM>:<NUM>:0D:<NUM>:E9:4B:7B ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C0:<NUM>:<NUM>:0D:<NUM>:E9:3F:C9 ip=<IP> v=<NUM> t=<NUM> status=M Wed Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+RAS KERNEL FATAL data storage interrupt,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7C ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for tree B1 wire,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7E ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO generating core.<NUM>,0
+RAS KERNEL FATAL invalid (SNAN)...........................<NUM>,0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A C X+ X- Y+ Y- Z+ Z- got: A C X+ Y+ Y- Z+,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:D9 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL invalid (Inf/Zero).......................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:0A:<NUM>:0D:<NUM>:EA:<NUM>:F5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:AB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr16=<HEX> ffffffff <HEX> <HEX>,0
+RAS KERNEL FATAL memory and bus summary...........................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus x+ wire, suppressing further interrupts of same type",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:DF:B1:<NUM>:0D:<NUM>:E9:<NUM>:4E ip=<IP> v=<NUM> t=<NUM>,0
+"RAS LINKCARD FATAL MidplaneSwitchController::parityAlignment() pap failed: R77-M0-L1-U19-C, status=<HEX> <HEX>",1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:F6 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C2:7F:<NUM>:0D:<NUM>:E9:3D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO external input interrupt (unit=<HEX> bit=<HEX>): number of corrected SRAM errors has exceeded threshold,0
+NULL HARDWARE WARNING EndServiceAction <NUM> performed upon <NODE> by bwallen,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E3:<NUM>:<NUM>:0D:<NUM>:E9:1C:F9 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr25=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CB:1F:<NUM>:0D:<NUM>:E9:<NUM>:E0 ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:D5:<NUM>:0D:<NUM>:EA:E0:2A ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:9A:<NUM>:0D:<NUM>:E9:1E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL FATAL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=<NUM>, cpu=<NUM>, index=<NUM>, total=<NUM>, max=",1
+RAS KERNEL FATAL fpr15=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E6:F4:<NUM>:0D:<NUM>:E9:<NUM>:0B ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D0:BF:<NUM>:0D:<NUM>:E9:2F:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:BD:1A:<NUM>:0D:<NUM>:E9:<NUM>:E5 ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL data store interrupt caused by icbi.........<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R12-M1-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:CE), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"RAS KERNEL FATAL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=<NUM>, cpu=<NUM>, index=<NUM>, total=<NUM>, max=<NUM>",1
+RAS KERNEL FATAL fpr9=<HEX> <HEX> <HEX> <HEX>,0
+RAS KERNEL FATAL capture first EDRAM parity error address..<NUM>,0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A C X+ X- Y+ Y- Z+ Z- got: A C X+ Y+ Y- Z+ Z-,0
+"RAS LINKCARD FATAL MidplaneSwitchController::parityAlignment() pap failed: R33-M1-L0-U22-C, status=<HEX> <HEX>",1
+"RAS KERNEL FATAL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=<NUM>, cpu=<NUM>, index=<NUM>, total=<HEX>, m",1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9C ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:EC ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BB:A4:<NUM>:0D:<NUM>:E9:<NUM>:5B ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY SEVERE While initializing service card iDo with LP of FF:F2:9F:<NUM>:1F:3D:<NUM>:0D:<NUM>:EA:E0:C2 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:1F:3D:<NUM>:0D:<NUM>:EA:E0:C2 and IP=/<IP> because java.lang.RuntimeException: Communication error: (DirectIDo fo,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:8F ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL INFO Kernel detected <HEX> integer alignment exceptions (<HEX>) iar <HEX>, dear <HEX> (<HEX>) iar <HEX>, dear <HEX> (<HEX>) iar <HEX>, dear <HEX> (<HEX>) iar <HEX>, dear <HEX> (<HEX>) iar <HEX>, dear <HEX> (<HEX>) iar <HEX>, dear <HEX> (<HEX>) iar <HEX>, dear <HEX> (<HEX>) iar <HEX>, dear",0
+NULL MONITOR FAILURE Temperature Over Limit on link card,0
+RAS KERNEL FATAL prefetch depth for core <NUM>................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C0:<NUM>:<NUM>:0D:<NUM>:E9:3F:AB ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:BF ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL INFO ciod: generated <NUM> core files for program IMB-MPI1.1MB_perf,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9F ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:<NUM>:<NUM>:0D:<NUM>:EA:E0:F8 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:1F:<NUM>:<NUM>:0D:<NUM>:EA:E0:EB ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D6:AC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:9F:<NUM>:0D:<NUM>:E9:1E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:EF:<NUM>:0D:<NUM>:E9:1E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr19=<HEX> <HEX> <HEX> <HEX>,0
+"RAS APP FATAL ciod: Error loading <PATH><HEX><PATH>: invalid or missing program image, No such file or directory",0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R13-M1), mCardSernum( <HEX>)) by root",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F1:E6:<NUM>:0D:<NUM>:E9:0E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C7:7A:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J09 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL machine check interrupt (bit=<HEX>): L2 dcache unit read return parity error,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C7:D4:<NUM>:0D:<NUM>:E9:<NUM>:2B ip=<IP> v=<NUM> t=<NUM> status=M Tue Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+RAS KERNEL FATAL Power deactivated: R05-M0-NE,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E3:E7:<NUM>:0D:<NUM>:E9:1C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CE ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7A ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL regctl scancom interface.........................<NUM>,0
+"RAS APP FATAL ciod: Error loading <PATH>?/miranda_newhack: invalid or missing program image, No such file or directory",0
+RAS KERNEL INFO ciod: generated <NUM> core files for program IMB-MPI1.2KB_func,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:DD ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS APP FATAL ciod: Error creating node map from file map.dat: No child processes,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:1A:<NUM>:0D:<NUM>:E9:<NUM>:E5 ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL program interrupt: unimplemented operation..<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:DE ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: R03-M1-NE,1
+RAS KERNEL FATAL floating pt ex mode <NUM> enable......<NUM>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:C5:<NUM>:<NUM>:0D:<NUM>:E9:3A:8C caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:C5:<NUM>:<NUM>:0D:<NUM>:E9:3A:8C and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+RAS KERNEL FATAL fpr31=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:A5:<NUM>:0D:<NUM>:E9:3A:5A ip=<IP> v=<NUM> t=<NUM> status=M Tue Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+RAS APP FATAL ciod: Error creating node map from file <PATH>: Bad address,0
+RAS KERNEL FATAL size of DDR we are caching...............<NUM> (512M),0
+"RAS KERNEL INFO ciod: In packet from node <NUM> (R62-M1-Nf-C:J06-U01), message code <NUM> is not <NUM> or <HEX> (softheader=<HEX> <HEX> <HEX> <HEX>)",0
+RAS APP FATAL ciod: Error creating node map from file map.dat: Bad address,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:DC:9A:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:0C:<NUM>:0D:<NUM>:EA:<NUM>:F3 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL CHECK_INITIAL_GLOBAL_INTERRUPT_VALUES,0
+"RAS APP FATAL ciod: Error loading ./userfunc_power: invalid or missing program image, No such file or directory",0
+RAS BGLMASTER INFO BGLMaster has been started: ./BGLMaster --consoleip <IP> --consoleport <NUM> --configfile bglmaster.init --autorestart y,0
+RAS KERNEL INFO MACHINE CHECK DCR read timeout (mc=e08x iar <HEX> lr <HEX>),0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:F6 ip=<IP> v=<NUM> t=<NUM> status=M Sat Dec <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+"RAS APP FATAL ciod: Error loading <PATH>: program image too big, <HEX> > <HEX>",0
+RAS KERNEL INFO ciod: generated <NUM> core files for program ./ddcMDbglV,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R12-M1-L1 <NUM> E (J13) --> R02-M0-L1 <NUM> D (J15) is present BUT the reverse cable R02-M0-L1 <NUM> E (J05) --> R12-M1-L1 <NUM> D (J07) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CB:A1:<NUM>:0D:<NUM>:E9:<NUM>:5E ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus x- wire, suppressing further interrupts of same type",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:<NUM>:<NUM>:0D:<NUM>:E9:1D:7D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E7:E6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BF:B2:<NUM>:0D:<NUM>:E9:<NUM>:4D ip=<IP> v=<NUM> t=<NUM> status=M Sat Dec <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+RAS KERNEL FATAL wait state enable.................<NUM>,0
+RAS KERNEL FATAL fpr22=<HEX> ffffffff ffffffff ffffffff,0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R66-M1), mCardSernum( <HEX>)) by pjmccart",0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J16 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS BGLMASTER INFO BGLMaster has been started: ./BGLMaster --consoleip <IP> --consoleport <NUM> --configfile bglmaster.init --autorestart y --db2profile <PATH> --dbproperties db.properties,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:4C:<NUM>:0D:<NUM>:EA:<NUM>:B3 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL special purpose registers:,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CF:BE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EC:0A:<NUM>:0D:<NUM>:E9:<NUM>:F5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EF:EE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R63-M0), mCardSernum( <HEX>)) by root",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:0A:<NUM>:0D:<NUM>:EA:<NUM>:F5 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:C1:<NUM>:0D:<NUM>:E9:<NUM>:3E ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C8:EE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R66-M0), mCardSernum( <HEX>)) by root",0
+RAS KERNEL INFO data cache flush parity error detected. attempting to correct,0
+RAS KERNEL INFO ciod: Y coordinate <NUM> exceeds physical dimension <NUM> at line <NUM> of node map file <PATH>,0
+"NULL HARDWARE WARNING PrepareForService shutting down LinkCard(mLctn(R07-M0-L2), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:AF), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J07 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D1:<NUM>:<NUM>:0D:<NUM>:E9:2E:8A ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL ax=<NUM>,0
+"RAS KERNEL INFO ddr: Unable to steer rank=<NUM>, symbol=<NUM> - rank is already steering symbol <NUM>. Due to multiple symbols being over the correctable",0
+RAS KERNEL INFO floating point operation....................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EE:F2:<NUM>:0D:<NUM>:E9:<NUM>:0D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R43-M1-ND), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C9:8B:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:AF ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D4:<NUM>:<NUM>:0D:<NUM>:E9:2B:BE ip=<IP> v=<NUM> t=<NUM> status=M Mon Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R65-M1-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C9:EA:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C0:EF:<NUM>:0D:<NUM>:E9:3F:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R17-M1-L3 <NUM> E (J13) --> R07-M0-L3 <NUM> D (J15) is present BUT the reverse cable R07-M0-L3 <NUM> E (J05) --> R17-M1-L3 <NUM> D (J07) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:B4:<NUM>:0D:<NUM>:E9:3A:4B ip=<IP> v=<NUM> t=<NUM> status=M Sat Dec <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E3:<NUM>:<NUM>:0D:<NUM>:E9:1C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C3:6C:<NUM>:0D:<NUM>:E9:3C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS APP FATAL ciod: Error creating node map from file <PATH>: Block device required,0
+RAS KERNEL INFO ciod: generated <NUM> core files for program IMB-MPI1.2MB_perf,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:EC ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D0:1A:<NUM>:0D:<NUM>:E9:2F:E5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO ciod: Unexpected eof at line <NUM> of node map file map.dat,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R10-M0-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:DF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7B), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"RAS KERNEL FATAL rts assertion failed: `vaddr % PAGE_SIZE_1M == <NUM>' in `int initializeAppMemory(int, TLBEntry&, unsigned int, unsigned int)' at mmu.cc:<NUM>",1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9C ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:5F:<NUM>:0D:<NUM>:EA:E0:A0 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL invalid (Zero/Zero)......................<NUM>,0
+RAS KERNEL INFO <NUM> torus sender y- retransmission error(s) (dcr <HEX>) detected and corrected,0
+RAS KERNEL FATAL L3 ecc status register: <HEX>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus z- wire,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:ED:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:C7), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO ciod: generated <NUM> core files for program IMB-MPI1.256B_perf,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:7A:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL INFO NFS Mount failed on <IONODE>, slept <NUM> seconds, retrying (<NUM>)",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:FC ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL invalid (Inf/Inf)........................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CE:4F:<NUM>:0D:<NUM>:E9:<NUM>:B0 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:BC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E7:E6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL CMCS INFO Starting SystemController,0
+RAS KERNEL FATAL fpr25=<HEX> ffffffff <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:<NUM>:<NUM>:0D:<NUM>:EA:E0:DA ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL rts internal error,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:BB ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:CD ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E0:<NUM>:<NUM>:0D:<NUM>:E9:1F:8E ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D5:<NUM>:<NUM>:0D:<NUM>:E9:2A:A9 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr27=<HEX> ffffffff <HEX> <HEX>,0
+RAS KERNEL FATAL DDR machine check register: <HEX> <HEX>,1
+"RAS APP FATAL ciod: Error loading ./runtime_queue: invalid or missing program image, No such file or directory",0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9C caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9C and IP=/<IP> because java.lang.RuntimeException: Communication err,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:EC ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CE:D6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL machine check interrupt (bit=<HEX>): L2 DCU read error,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F1:B4:<NUM>:0D:<NUM>:E9:0E:4B ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO ciod: pollControlDescriptors: Detected the debugger died.,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:7E:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:AA:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr10=<HEX> <HEX> <HEX> <HEX>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J10 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL rts panic! - stopping execution,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C3:BC:<NUM>:0D:<NUM>:E9:3C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E7:6E:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:ED:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:AE ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7F:F9:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> torus sender y+ retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D0:0B:<NUM>:0D:<NUM>:E9:2F:F4), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:A9 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:ED:FB:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Sat Dec <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EB:4A:<NUM>:0D:<NUM>:E9:<NUM>:B5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL HARDWARE WARNING EndServiceAction is restarting the Node cards in Midplane R47-M1 as part of Service Action <NUM>,0
+RAS KERNEL FATAL capture first directory correctable error address..<NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this part (mLctn(R03-M0-NC), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E6:EA:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) by gooding3",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:<NUM>:<NUM>:0D:<NUM>:E9:1D:D7 ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:9D ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R37-M0-ND), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:BF:B2:<NUM>:0D:<NUM>:E9:<NUM>:4D), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R72-M1-NB), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D7:DA:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:7A:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J12 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL fpr20=<HEX> ffffffff ffffffff ffffffff,0
+RAS KERNEL FATAL invalid operation exception summary......<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:<NUM>:<NUM>:0D:<NUM>:E9:1B:C6 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: <NODE>,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C0:<NUM>:<NUM>:0D:<NUM>:E9:3F:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:AB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+KERNEL FATAL Kill job <NUM> timed out. Block freed.,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C9:0E:<NUM>:0D:<NUM>:E9:<NUM>:F1 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr16=<HEX> <HEX> <HEX> <HEX>,0
+RAS KERNEL FATAL Power deactivated: R73-M0-NA,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:8E:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr19=<HEX> ffffffff <HEX> <HEX>,0
+RAS KERNEL FATAL <NUM>:<HEX> <NUM>:<HEX> <NUM>:<HEX> <NUM>:<HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:8E:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:CE:AE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"RAS KERNEL FATAL Error sending packet on tree network, packet at address <HEX> is not aligned",0
+NULL HARDWARE WARNING EndServiceAction is restarting the Node cards in Midplane R10-M0 as part of Service Action <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down LinkCard(mLctn(R03-M0-L1), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:BB), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO <HEX> torus sender x+ retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+"RAS APP FATAL ciod: Error loading ./userfunc_bits: invalid or missing program image, No such file or directory",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CC:F2:<NUM>:0D:<NUM>:E9:<NUM>:0D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fraction inexact.........................<NUM>,0
+RAS KERNEL FATAL fpr6=<HEX> <HEX> <HEX> <HEX>,0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A B C X+ X- Y+ Y- Z+ Z- got: A B C X+ X- Y- Z+ Z-,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:9C:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO ciod: Z coordinate <NUM> exceeds physical dimension <NUM> at line <NUM> of node map file <PATH>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R01-M1-NB), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL FATAL Power Good signal deactivated: R73-M1-NA. A service action may be required.,1
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EC:7D:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E6:E5:<NUM>:0D:<NUM>:E9:<NUM>:1A ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R05-M0-L1 <NUM> F (J17) --> R07-M0-L1 <NUM> C (J16) is present BUT the reverse cable R07-M0-L1 <NUM> F (J03) --> R05-M0-L1 <NUM> C (J02) is missing,0
+"RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus y- wire, suppressing further interrupts of same type",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EC:7D:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <HEX> torus sender z+ retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CF:7D:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CE:B3:<NUM>:0D:<NUM>:E9:<NUM>:4C ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL Special Purpose Registers:,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:BD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C7:C5:<NUM>:0D:<NUM>:E9:<NUM>:3A ip=<IP> v=<NUM> t=<NUM> status=M Sat Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading ./runtime_watchdog: invalid or missing program image, No such file or directory",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:D0:<NUM>:0D:<NUM>:E9:<NUM>:2F ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:1F:DC:<NUM>:0D:<NUM>:EA:E0:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J03 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL Target=ido://FF:F2:9F:<NUM>:E8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7C<PATH> Message=Invalid JtagId = ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:AC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:C2:<NUM>:<NUM>:0D:<NUM>:E9:3D:EE ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CF:D2:<NUM>:0D:<NUM>:E9:<NUM>:2D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J06 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:DE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading <PATH>//bandwidth.rts: invalid or missing program image, No such file or directory",0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D9:0F:<NUM>:0D:<NUM>:E9:<NUM>:F0), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:7E:DF:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:7D:<NUM>:0D:<NUM>:E9:1D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:7E:DE:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R47-M1-ND), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C0:9F:<NUM>:0D:<NUM>:E9:3F:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7F:E8:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:7D ip=<IP> v=<NUM> t=<NUM> status=M Fri Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J02 do not match. VPD ecid <HEX>, found <HEX>",0
+"NULL DISCOVERY INFO Node card VPD check: missing U11 node, VPD ecid <HEX> in processor card slot J18",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E6:BD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:EC ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:1F:<NUM>:<NUM>:0D:<NUM>:EA:E0:EF ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:A6 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: R03-M1-NB,1
+"NULL DISCOVERY INFO Node card VPD check: missing U01 node, VPD ecid <HEX> in processor card slot J18",0
+"RAS APP FATAL ciod: Error loading ./runtime_walk: invalid or missing program image, No such file or directory",0
+RAS KERNEL INFO <NUM> torus receiver y- input pipe error(s) (dcr <HEX>) detected and corrected,0
+RAS KERNEL FATAL Power deactivated: R03-M0-NA,1
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E4:B6:<NUM>:0D:<NUM>:E9:1B:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"RAS KERNEL INFO ddr: Unable to steer rank=<NUM>, symbol=<NUM> - rank is already steering symbol <NUM>. Due to multiple symbols being over the correctable error threshold, consider replacing the card",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:B7 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: R01-M1-NB,1
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:C9:EA:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CC ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> torus receiver x- input pipe error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+RAS KERNEL INFO ciod: Unexpected eof at line <NUM> of node map file ./map-xyzt-8x8x16x1-<NUM>-mid,0
+NULL HARDWARE WARNING EndServiceAction <NUM> performed upon R07-M1 by root,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:BA ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power Good signal deactivated: R73-M1-ND. A service action may be required.,1
+RAS KERNEL FATAL start initialization.....................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R05-M0-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7C), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:5B:<NUM>:0D:<NUM>:E9:<NUM>:A4 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C5:FF:<NUM>:0D:<NUM>:E9:3A:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:B9 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R63-M0-NC), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C6:0B:<NUM>:0D:<NUM>:E9:<NUM>:F4), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7F ip=<IP> v=<NUM> t=<NUM> status=M Tue Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+NULL DISCOVERY ERROR Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATC,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6F ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr9=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:8D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:EB:B3:<NUM>:0D:<NUM>:E9:<NUM>:4C caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:EB:B3:<NUM>:0D:<NUM>:E9:<NUM>:4C and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+RAS KERNEL FATAL byte ordering exception.....................<NUM>,0
+RAS KERNEL FATAL program interrupt: fp compare...............<NUM>,0
+"RAS LINKCARD FATAL MidplaneSwitchController::parityAlignment() pap failed: R61-M0-L3-U21-C, status=ffffffff <HEX>",1
+RAS KERNEL FATAL number of correctable errors detected in L3 EDRAMs........<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:C9:<NUM>:0D:<NUM>:EA:E0:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A C X+ X- Y+ Y- Z+ Z- got: A C X+ X- Y- Z+ Z-,0
+RAS KERNEL FATAL rts: bad message header: packet index <NUM> greater than max <NUM> (softheader=<HEX> <HEX> <HEX> <HEX>) PSR0=<HEX> PSR1=<HEX> PRXF=<HEX> PIXF=<HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F1:EB:<NUM>:0D:<NUM>:E9:0E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y+ Y- Z+ Z-,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:EF ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL INFO Kernel detected <NUM> integer alignment exceptions (<NUM>) iar <HEX>, dear <HEX> (<NUM>) iar <HEX>, dear <HEX> (<NUM>) iar <HEX>, dear <HEX> (<NUM>) iar <HEX>, dear <HEX> (<NUM>) iar <HEX>, dear <HEX> (<NUM>) iar <HEX>, dear <HEX> (<NUM>) iar <HEX>, dear <HEX> (<NUM>) iar <HEX>, dear",0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E7:EB:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO disable trace broadcast..................<NUM>,0
+RAS KERNEL FATAL store operation.............................<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:7D:FB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CE ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:E6:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO ciod: generated <NUM> core files for program IMB-MPI1.2KB,0
+RAS KERNEL FATAL debug wait enable.................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:AA ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO store operation.............................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D1:4D:<NUM>:0D:<NUM>:E9:2E:B2 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL number of lines with parity errors written to L3 EDRAMs...<NUM>,0
+RAS KERNEL INFO ciod: Missing or invalid fields on line <NUM> of node map file <PATH>,0
+RAS KERNEL FATAL fpr23=<HEX> ffffffff <HEX> <HEX>,0
+RAS KERNEL INFO data store interrupt caused by dcbf.........<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BF:DF:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:9F:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:C9:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL MailboxMonitor::serviceMailboxes() lib_ido_error: -<NUM> BGLERR_IDO_PKT_TIMEOUT connection lost to node<PATH> card,1
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R31-M1-NC), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D5:E7:<NUM>:0D:<NUM>:E9:2A:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:EC ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J17 do not match. VPD ecid <HEX>, found <HEX>",0
+"NULL HARDWARE WARNING PrepareForService is being done on this part (mLctn(R44-M1-NB), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EC:E1:<NUM>:0D:<NUM>:E9:<NUM>:1E), mIp(<IP>), mType(<NUM>)) by root",0
+RAS KERNEL INFO <HEX> L3 EDRAM error(s) (dcr <HEX>) detected and corrected,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D5:6F:<NUM>:0D:<NUM>:E9:2A:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO shutdown complete,0
+RAS MMCS INFO mmcs_db_server has been started: ./mmcs_db_server --useDatabase BGL --dbproperties db.properties --iolog <PATH> --reconnect-blocks all --shutdown-timeout <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:BE:FC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to <IP>,1
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:B6 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:B6 and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+RAS APP FATAL ciod: LOGIN chdir(<PATH>/) failed: No such file or directory,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R16-M0-L1 <NUM> E (J13) --> R06-M1-L1 <NUM> D (J15) is present BUT the reverse cable R06-M1-L1 <NUM> E (J05) --> R16-M0-L1 <NUM> D (J07) is missing,0
+RAS KERNEL INFO program interrupt: fp compare...............<NUM>,0
+NULL HARDWARE SEVERE NodeCard power module U68 is not accessible,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C4:<NUM>:<NUM>:0D:<NUM>:E9:3B:8D ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:BF:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E0:8A:<NUM>:0D:<NUM>:E9:1F:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:0A:<NUM>:0D:<NUM>:E9:<NUM>:F5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL data address space................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:DA ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:A0:<NUM>:0D:<NUM>:E9:<NUM>:5F ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL L3 global control register: <HEX>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CC:F7:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:4F:<NUM>:0D:<NUM>:EA:<NUM>:B0 ip=<IP> v=<NUM> t=<NUM> status=M Fri Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL invalid operation exception (sqrt).......<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:ED ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F0:<NUM>:<NUM>:0D:<NUM>:E9:0F:AB ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J17 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C4:<NUM>:<NUM>:0D:<NUM>:E9:3B:AB ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:EC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J09 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL parity error in read queue PLB.................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BA:8F:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS APP FATAL ciod: Error creating node map from file ./map-xyzt-8x8x16x1-<NUM>-mid: No child processes,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:DC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power Good signal deactivated: R73-M1-NF. A service action may be required.,1
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R22-M0-NC), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:CB:2E:<NUM>:0D:<NUM>:E9:<NUM>:D1), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CD ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL parity error in read queue <NUM>...................<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:E9:AC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:DE ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY SEVERE While initializing service card iDo with LP of FF:F2:9F:<NUM>:1F:0A:<NUM>:0D:<NUM>:EA:E0:F5 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:1F:0A:<NUM>:0D:<NUM>:EA:E0:F5 and IP=/<IP> because java.lang.RuntimeException: Communication error: (DirectIDo fo,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:FD ip=<IP> v=<NUM> t=<NUM> status=M Sat Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:8E ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R14-M0-L3 <NUM> F (J04) --> R04-M1-L3 <NUM> C (J06) is present BUT the reverse cable R04-M1-L3 <NUM> F (J12) --> R14-M0-L3 <NUM> C (J14) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:DA ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EB:D6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY SEVERE While initializing service card iDo with LP of FF:F2:9F:<NUM>:1F:BC:<NUM>:0D:<NUM>:EA:E0:<NUM> caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:1F:BC:<NUM>:0D:<NUM>:EA:E0:<NUM> and IP=/<IP> because java.lang.RuntimeException: Communication error: (Direct,0
+"RAS KERNEL INFO ciod: for node <NUM>, read continuation request but ioState is <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D3:8B:<NUM>:0D:<NUM>:E9:2C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr24=<HEX> ffffffff ffffffff ffffffff,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:ED:FB:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO ddr: activating redundant bit steering: rank=<NUM> symbol=<NUM>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for tree A0 wire,0
+RAS KERNEL INFO wait state enable.................<NUM>,0
+RAS KERNEL INFO machine state register: <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9C ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL quiet NaN................................<NUM>,0
+RAS KERNEL FATAL rts assertion failed: `personality->version == BGLPERSONALITY_VERSION' in `void start()' at start.cc:<NUM>,1
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:C0:<NUM>:<NUM>:0D:<NUM>:E9:3F:BF ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R11-M1-L3 <NUM> E (J13) --> R01-M0-L3 <NUM> D (J15) is present BUT the reverse cable R01-M0-L3 <NUM> E (J05) --> R11-M1-L3 <NUM> D (J07) is missing,0
+RAS KERNEL FATAL invalid (compare)........................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CF:5F:<NUM>:0D:<NUM>:E9:<NUM>:A0 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr1=<HEX> <HEX> <HEX> <HEX>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for tree A1 wire,0
+RAS KERNEL FATAL uncorrectable error detected in external DDR...<NUM>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for tree C1 wire,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:4A:<NUM>:0D:<NUM>:E9:1E:B5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO ciod: generated <NUM> core files for program IMB-MPI1.4KB_perf,0
+"RAS APP FATAL ciod: Error loading ./pop6000: program image too big, <HEX> > <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D8:E5:<NUM>:0D:<NUM>:E9:<NUM>:1A ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL d-cache flush parity error........<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:DC ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:9B:<NUM>:0D:<NUM>:E9:1D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: R44-M1-NE,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DA:D3:<NUM>:0D:<NUM>:E9:<NUM>:2C ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL HARDWARE SEVERE NodeCard power module U70 is not accessible,0
+NULL MONITOR FAILURE monitor caught java.lang.IllegalStateException: while executing I2C Operation caught java.net.SocketException: Broken pipe and is stopping,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BB:E5:<NUM>:0D:<NUM>:E9:<NUM>:1A ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL rts: bad message header: expecting type <NUM> instead of type <NUM> (softheader=<HEX> <HEX> <HEX> <HEX>) PSR0=<HEX> PSR1=<HEX> PRXF=<HEX> PIXF=<HEX>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EB:D6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL FATAL disable store gathering..................<NUM>,0
+RAS KERNEL FATAL program interrupt: illegal instruction......<NUM>,0
+"NULL DISCOVERY INFO Node card VPD check: missing U01 node, VPD ecid <HEX> in processor card slot J19",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:EE ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DA:0B:<NUM>:0D:<NUM>:E9:<NUM>:F4 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R72-M1-NE), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D7:8A:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J06 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL data address: <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D4:<NUM>:<NUM>:0D:<NUM>:E9:2B:BE ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:DC ip=<IP> v=<NUM> t=<NUM> status=M Tue Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D6:C5:<NUM>:0D:<NUM>:E9:<NUM>:3A ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.,0
+RAS KERNEL FATAL exception summary........................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:8F ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading ./runtime_random: invalid or missing program image, No such file or directory",0
+RAS KERNEL FATAL fpr12=<HEX> <HEX> <HEX> <HEX>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R07-M1-NA), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EB:BD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL HARDWARE WARNING PrepareForService shutting down Link card(mLctn(R22-M0-L2), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:7D:8D:<NUM>:0D:<NUM>:EA:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL FATAL external input interrupt (unit=<HEX> bit=<HEX>): torus sender x+ retransmission error was corrected,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:2D:<NUM>:0D:<NUM>:E9:1D:D2 ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <IP>: Connection reset by peer,1
+RAS KERNEL FATAL external input interrupt enable...<NUM>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:D8:5E:<NUM>:0D:<NUM>:E9:<NUM>:A1 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:D8:5E:<NUM>:0D:<NUM>:E9:<NUM>:A1 and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:F9 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL external input interrupt (unit=<HEX> bit=<HEX>): torus sender x- retransmission error was corrected,0
+RAS KERNEL INFO <HEX> floating point alignment exceptions,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D5:E7:<NUM>:0D:<NUM>:E9:2A:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:DA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:F9), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:1B:<NUM>:0D:<NUM>:EA:<NUM>:E4 ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:BA ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:8D:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:AA:<NUM>:0D:<NUM>:E9:1D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr28=<HEX> ffffffff ffffffff ffffffff,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J13 do not match. VPD ecid <HEX>, found <HEX>",0
+"RAS KERNEL FATAL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=<NUM>, cpu=<NUM>, index=<NUM>, total=<NUM>",1
+RAS KERNEL FATAL fpr8=<HEX> <HEX> <HEX> <HEX>,0
+RAS KERNEL FATAL rts: bad message header: index <NUM> greater than total <NUM> (softheader=<HEX> <HEX> <HEX> <HEX>) PSR0=<HEX> PSR1=<HEX> PRXF=<HEX> PIXF=<HEX>,0
+RAS KERNEL FATAL start retagging..........................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BB:BD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J11 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL fpr30=<HEX> ffffffff ffffffff ffffffff,0
+RAS KERNEL FATAL program interrupt: privileged instruction...<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C2:<NUM>:<NUM>:0D:<NUM>:E9:3D:CB ip=<IP> v=<NUM> t=<NUM> status=M Sat Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL critical input interrupt enable...<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:BB:C7:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+"RAS KERNEL INFO external input interrupt (unit=<HEX> bit=<HEX>): number of corrected SRAM errors has exceeded threshold, suppressing further interrupts of same type",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E3:DD:<NUM>:0D:<NUM>:E9:1C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL memory manager RMW buffer parity.................<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R17-M0-NC), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E9:D9:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL FATAL uncorrectable error detected in EDRAM bank <NUM>...<NUM>,0
+RAS KERNEL FATAL fpr21=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:DE ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> floating point alignment exceptions,0
+RAS KERNEL FATAL disable flagging of DDR UE's as major internal error.<NUM>,0
+RAS KERNEL FATAL instruction address: <HEX>,0
+RAS KERNEL FATAL fpr0=<HEX> <HEX> <HEX> <HEX>,0
+"RAS APP FATAL ciod: Error loading pr%nlev: invalid or missing program image, No such file or directory",0
+RAS KERNEL FATAL Power deactivated: R03-M0-NB,1
+"RAS APP FATAL ciod: Error loading <PATH>//ddcMDbglV: invalid or missing program image, Permission denied",0
+RAS KERNEL INFO <NUM> double-hummer alignment exceptions,0
+RAS BGLMASTER FAILURE mmcs_server exited abnormally due to signal: Segmentation fault,1
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D4:<NUM>:<NUM>:0D:<NUM>:E9:2B:AA ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL rts: kernel terminated for reason <NUM>,1
+RAS KERNEL FATAL fpr31=<HEX> <HEX> <HEX> <HEX>,0
+RAS KERNEL FATAL Power deactivated: R73-M0-NE,1
+RAS KERNEL INFO machine check: i-fetch......................<NUM>,0
+RAS KERNEL FATAL fpr7=<HEX> <HEX> <HEX> <HEX>,0
+RAS APP FATAL ciod: LOGIN chdir(RUNS<PATH>) failed: No such file or directory,0
+RAS KERNEL FATAL enable non-IEEE mode.....................<NUM>,0
+RAS APP FATAL ciod: Error creating node map from file <PATH>: No child processes,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:AD ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL dbcr0=<HEX> dbsr=<HEX> ccr0=<HEX>,0
+RAS KERNEL FATAL round toward +infinity...................<NUM>,0
+RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=pTargetMgr Source file=idoclientmgr.cpp Source line=<NUM> Function=int IdoClientMgr::TargetClose(const char*),0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D6:2A:<NUM>:0D:<NUM>:E9:<NUM>:D5 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R45-M0), mCardSernum( <HEX>)) by gooding3",0
+RAS KERNEL FATAL Target=ido://FF:F2:9F:<NUM>:EC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:BE<PATH> Message=Invalid JtagId = ffffffff,0
+RAS KERNEL FATAL chip select...........<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C6:B5:<NUM>:0D:<NUM>:E9:<NUM>:4A ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:E8:A1:<NUM>:0D:<NUM>:E9:<NUM>:5E caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:E8:A1:<NUM>:0D:<NUM>:E9:<NUM>:5E and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+RAS KERNEL FATAL Power deactivated: R73-M0-NB,1
+RAS KERNEL FATAL overflow exception.......................<NUM>,0
+RAS KERNEL FATAL fpr11=<HEX> <HEX> <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F0:<NUM>:<NUM>:0D:<NUM>:E9:0F:BF ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL memory manager refresh contention................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C4:<NUM>:<NUM>:0D:<NUM>:E9:3B:E7 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL machine check interrupt (bit=<HEX>): L2 dcache unit write data parity error,1
+RAS APP FATAL ciod: Error creating node map from file <PATH>:<NUM>:17Tue19Jul05<PATH>: Bad file descriptor,0
+RAS KERNEL FATAL data TLB error interrupt,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL MONITOR FAILURE monitor caught java.lang.IllegalStateException: while executing CONTROL Operation caught java.net.SocketException: Broken pipe and is stopping,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:C8:<NUM>:0D:<NUM>:E9:1D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:DB:<NUM>:0D:<NUM>:EA:E0:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R12-M0-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E3:B5:<NUM>:0D:<NUM>:E9:1C:4A), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J15 do not match. VPD ecid <HEX>, found <HEX>",0
+"RAS KERNEL INFO rror threshold, consider replacing the card",0
+RAS KERNEL INFO <NUM> torus receiver y- input pipe error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+RAS KERNEL INFO ciod: cpu <NUM> at treeaddr <NUM> sent unrecognized message <HEX>,0
+RAS KERNEL FATAL Power Good signal deactivated: R73-M1-NE. A service action may be required.,1
+RAS BGLMASTER FAILURE ciodb exited abnormally due to signal: Aborted,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E7:D2:<NUM>:0D:<NUM>:E9:<NUM>:2D ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R16-M1-L0 <NUM> F (J04) --> R06-M0-L0 <NUM> C (J06) is present BUT the reverse cable R06-M0-L0 <NUM> F (J12) --> R16-M1-L0 <NUM> C (J14) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EC:AF:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J12 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:B8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:AE ip=<IP> v=<NUM> t=<NUM>,0
+"RAS LINKCARD FATAL MidplaneSwitchController::parityAlignment() pap failed: R56-M1-L3-U22-C, status=dfffffff <HEX>",1
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R17-M0-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E1:1D:<NUM>:0D:<NUM>:E9:1E:E2), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9F ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:DE:<NUM>:0D:<NUM>:E9:1B:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:A7:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R72-M1-ND), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D7:DF:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL FATAL memory manager refresh...........................<NUM>,0
+"RAS KERNEL INFO CE sym <NUM>, at <HEX>, mask <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BF:C6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Mon Dec <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EC:BE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:FB:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R31-M0-NB), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:BE:D4:<NUM>:0D:<NUM>:E9:<NUM>:2B), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:D7:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading ./ddcMDbglV: invalid or missing program image, No such file or directory",0
+RAS KERNEL FATAL DDR failing info register: <HEX>,0
+"RAS APP FATAL ciod: Error loading make: invalid or missing program image, No such file or directory",0
+RAS KERNEL FATAL fpr28=<HEX> ffffffff <HEX> <HEX>,0
+RAS KERNEL INFO program interrupt: trap instruction.........<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:D5:<NUM>:0D:<NUM>:EA:E0:2A ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:EF ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr19=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F0:<NUM>:<NUM>:0D:<NUM>:E9:0F:D8 ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS APP FATAL ciod: Error loading <PATH>: not a CNK program image,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D0:B0:<NUM>:0D:<NUM>:E9:2F:4F ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:7F ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DB:AC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Mon Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading -mode VN: invalid or missing program image, No such file or directory",0
+"NULL DISCOVERY INFO Node card VPD check: missing U01 node, VPD ecid <HEX> in processor card slot J16",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:9D ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C8:D0:<NUM>:0D:<NUM>:E9:<NUM>:2F ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CB:7E:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BB:0E:<NUM>:0D:<NUM>:E9:<NUM>:F1 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr10=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:D1:<NUM>:0D:<NUM>:EA:<NUM>:2E ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL MONITOR FAILURE While inserting monitor info into DB caught java.lang.NullPointerException,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:AF ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS MMCS INFO mmcs_db_server has been started: ./mmcs_db_server --useDatabase BGL --dbproperties serverdb.properties --iolog <PATH> --reconnect-blocks all,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C4:E5:<NUM>:0D:<NUM>:E9:3B:1A ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:7A ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C2:<NUM>:<NUM>:0D:<NUM>:E9:3D:EE ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F1:A5:<NUM>:0D:<NUM>:E9:0E:5A ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Core Configuration Register <NUM>: <HEX>,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J14 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL instruction address space.........<NUM>,0
+NULL HARDWARE SEVERE NodeCard power module U69 is not accessible,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R26-M1-L0 <NUM> F (J12) --> R06-M0-L0 <NUM> C (J14) is present BUT the reverse cable R06-M0-L0 <NUM> F (J04) --> R26-M1-L0 <NUM> C (J06) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CB ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL INFO ciod: In packet from node <NUM> (R62-M1-Ne-C:J13-U01), message code <NUM> is not <NUM> or <HEX> (softheader=<HEX> <HEX> <HEX> <HEX>)",0
+RAS KERNEL FATAL program interrupt: imprecise exception......<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:DB ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D2:5D:<NUM>:0D:<NUM>:E9:2D:A2 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO program interrupt: illegal instruction......<NUM>,0
+NULL DISCOVERY SEVERE While initializing service card iDo with LP of FF:F2:9F:<NUM>:1F:5F:<NUM>:0D:<NUM>:EA:E0:A0 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:1F:5F:<NUM>:0D:<NUM>:EA:E0:A0 and IP=/<IP> because java.lang.RuntimeException: Communication error: (DirectIDo fo,0
+RAS KERNEL FATAL fpr3=<HEX> <HEX> <HEX> <HEX>,0
+RAS KERNEL INFO general purpose registers:,0
+NULL DISCOVERY SEVERE SerialNumber(<HEX>) IpAddress(<IP>) Status(A),0
+RAS KERNEL FATAL parity error in bank <NUM>.........................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7A:0C:<NUM>:0D:<NUM>:EA:<NUM>:F3 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS APP FATAL ciod: LOGIN chdir(<PATH>) failed: No such file or directory,0
+NULL HARDWARE WARNING EndServiceAction <NUM> performed upon R21-M1-N by root,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C3:3A:<NUM>:0D:<NUM>:E9:3C:C5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:1B:<NUM>:0D:<NUM>:E9:1B:E4 ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:E6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on R27-M1-L3-U18-C bit <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:AB:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this part (mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) by root",0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:DA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9A caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:DA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9A and IP=/<IP> because java.lang.RuntimeException: Communication err,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CE:4A:<NUM>:0D:<NUM>:E9:<NUM>:B5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr27=<HEX> ffffffff ffffffff ffffffff,0
+RAS KERNEL INFO ciod: duplicate canonical-rank <NUM> to logical-rank <NUM> mapping at line <NUM> of node map file <PATH>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:EB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr14=<HEX> ffffffff <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C0:<NUM>:<NUM>:0D:<NUM>:E9:3F:EC ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Floating Point Status and Control Register: <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:EB:<NUM>:0D:<NUM>:E9:1D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R26-M1), mCardSernum( <HEX>)) by root",0
+RAS KERNEL FATAL capture first EDRAM uncorrectable error address..<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BA:E9:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr2=<HEX> <HEX> <HEX> <HEX>,0
+RAS KERNEL FATAL DDR failing address register: <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DE:B5:<NUM>:0D:<NUM>:E9:<NUM>:4A ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BD:9C:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R17-M0), mCardSernum( <HEX>)) by root",0
+RAS BGLMASTER FAILURE mmcs_server exited normally with exit code <NUM>,1
+"RAS APP FATAL ciod: Error loading ./pop4000: program image too big, <HEX> > <HEX>",0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R57-M1), mCardSernum( <HEX>)) by pjmccart",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:9B ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:DC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6A caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:DC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6A and IP=/<IP> because java.lang.RuntimeException: Communication err,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CD ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:DF ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS LINKCARD FATAL MidplaneSwitchController::clearPort() bll_clear_port failed: R63-M0-L0-U19-A,1
+NULL MONITOR FAILURE monitor caught java.lang.IllegalStateException: while executing CONTROL Operation caught java.io.EOFException and is stopping,1
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A B C X+ X- Y+ Y- Z+ Z- got: A B C X- Y+ Y- Z+ Z-,0
+"RAS LINKCARD FATAL MidplaneSwitchController::parityAlignment() pap failed: R56-M1-L3-U22-C, status=ffffffff <HEX>",1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:FA:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:6A:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C4:<NUM>:<NUM>:0D:<NUM>:E9:3B:FB), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D7:3A:<NUM>:0D:<NUM>:E9:<NUM>:C5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E0:<NUM>:<NUM>:0D:<NUM>:E9:1F:8E ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F0:<NUM>:<NUM>:0D:<NUM>:E9:0F:8D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CF:D7:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C8:E4:<NUM>:0D:<NUM>:E9:<NUM>:1B ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R00-M1-L2 <NUM> F (J11) --> R01-M1-L2 <NUM> C (J10) is present BUT the reverse cable R01-M1-L2 <NUM> F (J09) --> R00-M1-L2 <NUM> C (J08) is missing,0
+RAS MMCS ERROR Ido packet timeout,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:E3:<NUM>:0D:<NUM>:EA:E0:1C ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: R44-M1-NB,1
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:BF:3F:<NUM>:0D:<NUM>:E9:<NUM>:C0 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:BF:3F:<NUM>:0D:<NUM>:E9:<NUM>:C0 and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:DB:F7:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A C X+ X- Y+ Y- Z+ Z- got: A C X+ Y+ Z+ Z-,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:DB ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:CC:ED:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus z+ wire,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R07-M1-NC), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EB:0E:<NUM>:0D:<NUM>:E9:<NUM>:F1), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO <NUM> torus sender y- retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+NULL MONITOR FAILURE No power module U58 found found on link card,1
+RAS KERNEL INFO <NUM> torus sender z- retransmission error(s) (dcr <HEX>) detected and corrected,0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A C X+ X- Y+ Y- Z+ Z- got: A C X+ X- Y+ Y- Z+,0
+RAS KERNEL INFO total of <NUM> ddr error(s) detected and corrected,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:0A:<NUM>:0D:<NUM>:EA:<NUM>:F5 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EE:6B:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:8D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:FF ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D2:A3:<NUM>:0D:<NUM>:E9:2D:5C ip=<IP> v=<NUM> t=<NUM> status=M Sat Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL instruction plb error.............<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R71-M0-ND), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E7:8C:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS APP FATAL ciod: Error creating node map from file <PATH>: Cannot allocate memory,1
+"RAS APP FATAL ciod: Error loading <PATH>: invalid or missing program image, No such file or directory",0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:D8), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:CD:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:A7:<NUM>:0D:<NUM>:E9:1B:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D1:<NUM>:<NUM>:0D:<NUM>:E9:2E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO program interrupt: fp cr field .............<NUM>,0
+RAS KERNEL FATAL capture first DDR uncorrectable error address..<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:E8 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:C5:BE:<NUM>:0D:<NUM>:E9:3A:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D3:C7:<NUM>:0D:<NUM>:E9:2C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:BB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+RAS APP FATAL DCR <HEX> : <HEX>,0
+RAS APP FATAL ciod: Error reading message prefix after UNKNOWN on CioStream socket to <IP>: Link has been severed,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:FA ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R06-M1-ND), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6F), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"RAS KERNEL FATAL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=<NUM>, cpu=<NUM>, index=<NUM>, total=<HEX>,",1
+"RAS APP FATAL ciod: Error loading ..<PATH> -n <NUM>: invalid or missing program image, No such file or directory",0
+RAS KERNEL FATAL minus normalized number..................<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D1:D9:<NUM>:0D:<NUM>:E9:2E:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:9B:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1E:<NUM>:<NUM>:0D:<NUM>:EA:E1:C6 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading <PATH>: invalid or missing program image, Exec format error",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:E2:<NUM>:<NUM>:0D:<NUM>:E9:1D:FA ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL memory manager strobe gate.......................<NUM>,0
+"RAS APP FATAL ciod: Error loading ./memtest: invalid or missing program image, No such file or directory",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:BF ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A B C X+ X- Y+ Y- Z+ Z- got: A B C X+ X- Y+ Y- Z+,0
+RAS KERNEL FATAL Error: unable to mount filesystem,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C6:D8:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C8:DA:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL data store interrupt caused by dcbf.........<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D4:<NUM>:<NUM>:0D:<NUM>:E9:2B:FA ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:D4:6E:<NUM>:0D:<NUM>:E9:2B:<NUM> caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:D4:6E:<NUM>:0D:<NUM>:E9:2B:<NUM> and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+"RAS KERNEL FATAL <NUM>, max=<NUM>",0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:ED:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6D), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C7:E8:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7F:EB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL size of scratchpad portion of L3.........<NUM> (0M),0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CC:A7:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CE ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:EA:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Wed Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:FF ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL INFO data address: <HEX>,0
+RAS KERNEL FATAL Power Good signal deactivated: R73-M1-NC. A service action may be required.,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:A6 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> torus receiver y+ input pipe error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J07 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:EC:0F:<NUM>:0D:<NUM>:E9:<NUM>:F0 ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL miscompare............<NUM>,0
+RAS KERNEL INFO <NUM> torus sender y+ retransmission error(s) (dcr <HEX>) detected and corrected,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:F8 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL floating point unavailable interrupt,1
+RAS KERNEL INFO <NUM> torus sender x- retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C4:FE:<NUM>:0D:<NUM>:E9:3B:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading main3d: invalid or missing program image, No such file or directory",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:A7:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Dec <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+RAS KERNEL INFO iar <HEX> dear <HEX>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:AB ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:C3:CB:<NUM>:0D:<NUM>:E9:3C:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D0:E2:<NUM>:0D:<NUM>:E9:2F:1D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D5:<NUM>:<NUM>:0D:<NUM>:E9:2A:DB ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CC:8E:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL machine state register: <HEX>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for tree C0 wire,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:FB ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL HARDWARE SEVERE NodeCard power module U67 is not accessible,0
+RAS KERNEL FATAL fpr24=<HEX> ffffffff <HEX> <HEX>,0
+RAS KERNEL FATAL minus inf................................<NUM>,0
+RAS APP FATAL ciod: Error creating node map from file <PATH>:<NUM>:41Tue19Jul05<PATH>: Bad file descriptor,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7F:E3:<NUM>:0D:<NUM>:EA:<NUM>:1C ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus y- wire,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D1:B1:<NUM>:0D:<NUM>:E9:2E:4E ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:AC), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL DISCOVERY WARNING Node card VPD check: U11 node in processor card slot J03 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BA:9E:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL machine check interrupt (bit=<HEX>): L3 major internal error,1
+"NULL HARDWARE WARNING PrepareForService shutting down LinkCard(mLctn(R17-M1-L2), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:7F:FE:<NUM>:0D:<NUM>:EA:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL HARDWARE WARNING PrepareForService shutting down LinkCard(mLctn(R73-M0-L1), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:7E:EE:<NUM>:0D:<NUM>:EA:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R10-M1-L3 <NUM> E (J13) --> R00-M0-L3 <NUM> D (J15) is present BUT the reverse cable R00-M0-L3 <NUM> E (J05) --> R10-M1-L3 <NUM> D (J07) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:7D:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CC:C5:<NUM>:0D:<NUM>:E9:<NUM>:3A ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY WARNING Node card is not fully functional,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:B8:CE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+"RAS APP FATAL ciod: Error loading <PATH>//torus-latency.rts: invalid or missing program image, No such file or directory",0
+RAS KERNEL FATAL fpr29=<HEX> ffffffff <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7F:EB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C9:E0:<NUM>:0D:<NUM>:E9:<NUM>:1F ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:B4:<NUM>:0D:<NUM>:E9:3A:4B ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Link card(mLctn(R63-M0-L2), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:7D:E2:<NUM>:0D:<NUM>:EA:<NUM>:1D), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J10 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL INFO ciod: Z coordinate <NUM> exceeds physical dimension <NUM> at line <NUM> of node map file map.dat,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:A6 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Link card(mLctn(R22-M0-L0), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:6C), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL memory manager store buffer parity...............<NUM>,0
+NULL HARDWARE SEVERE NodeCard is not fully functional,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:<NUM>:<NUM>:0D:<NUM>:E9:3A:9B ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D3:<NUM>:<NUM>:0D:<NUM>:E9:2C:6A ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Machine State Register: <HEX>,0
+RAS KERNEL INFO ciod: generated <NUM> core files for program ./cpmd_cur.x,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E3:2E:<NUM>:0D:<NUM>:E9:1C:D1 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:ED:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:C7 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Sat Dec <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:BB:FE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:BB:FE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> and IP=/<IP> because java.lang.RuntimeException: Communication err,0
+"RAS KERNEL INFO <NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:CD ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS APP FATAL ciod: Error creating node map from file <PATH>: Bad file descriptor,0
+RAS KERNEL FATAL memory manager miscompare........................<NUM>,0
+RAS KERNEL INFO ciod: generated <NUM> core files for program <PATH>//ddcMDbglV,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:D0:<NUM>:0D:<NUM>:EA:<NUM>:2F ip=<IP> v=<NUM> t=<NUM> status=M Fri Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:<NUM>:<NUM>:0D:<NUM>:E9:1D:6E ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R24-M1), mCardSernum( <HEX>)) by root",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D1:8E:<NUM>:0D:<NUM>:E9:2E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E5:3A:<NUM>:0D:<NUM>:E9:1A:C5 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error reading message prefix on CioStream socket to <IP>, Connection reset by peer",1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7F:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:FB ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:B8:<NUM>:0D:<NUM>:E9:1E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY INFO Node card VPD check: missing U11 node, VPD ecid <HEX> in processor card slot J19",0
+RAS KERNEL FATAL Microloader Assertion,1
+RAS KERNEL FATAL fpr5=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C3:6C:<NUM>:0D:<NUM>:E9:3C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:1B:<NUM>:0D:<NUM>:E9:1B:E4 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C7:7F:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D4:<NUM>:<NUM>:0D:<NUM>:E9:2B:E6 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <HEX> torus sender y- retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+RAS KERNEL FATAL idoproxy communication failure: socket closed,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7F ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:5D:<NUM>:0D:<NUM>:EA:E0:A2 ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS MMCS INFO mmcs_db_server has been started: ./mmcs_db_server --useDatabase BGL --dbproperties serverdb.properties --iolog <PATH> --reconnect-blocks all --shutdown-timeout <NUM>,0
+RAS KERNEL FATAL disable apu instruction broadcast........<NUM>,0
+NULL DISCOVERY ERROR Bad cable going into LinkCard (<HEX>) Jtag (<NUM>) Port (D) - <NUM> bad wires,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:CA:<NUM>:0D:<NUM>:EA:E0:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:B9:FC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:8C ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:BD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7C ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7A ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr8=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E3:0B:<NUM>:0D:<NUM>:E9:1C:F4 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr14=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:7D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for torus x- wire,0
+RAS BGLMASTER FAILURE mmcs_server exited abnormally due to signal: Aborted,1
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:EC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6E ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL Power deactivated: R03-M1-NA,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:7F ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:<NUM>:<NUM>:0D:<NUM>:E9:1E:7E ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R02-M0-L1 <NUM> F (J03) --> R06-M0-L1 <NUM> C (J02) is present BUT the reverse cable R06-M0-L1 <NUM> F (J17) --> R02-M0-L1 <NUM> C (J16) is missing,0
+RAS KERNEL FATAL Power Good signal deactivated: <NODE>. A service action may be required.,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C3:7B:<NUM>:0D:<NUM>:E9:3C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9A ip=<IP> v=<NUM> t=<NUM> status=M Wed Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+RAS APP FATAL ciod: LOGIN chdir(<PATH>) failed: Input/output error,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6C ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:BD ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL program interrupt: fp cr field .............<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BA:6C:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C6:DD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"RAS APP FATAL ciod: Error loading ./partsn: invalid or missing program image, No such file or directory",0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C3:<NUM>:<NUM>:0D:<NUM>:E9:3C:FC), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:9F:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:<NUM>:<NUM>:0D:<NUM>:E9:3A:CD ip=<IP> v=<NUM> t=<NUM> status=M Fri Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:<NUM>:<NUM>:0D:<NUM>:EA:E0:A7 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:<NUM>:<NUM>:0D:<NUM>:E9:1B:DF ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL invalid operation exception (software)...<NUM>,0
+RAS KERNEL FATAL program interrupt: fp cr update.............<NUM>,0
+"RAS KERNEL FATAL Error receiving packet on tree network, packet index <NUM> greater than max <NUM> (softheader=<HEX> <HEX> <HEX> <HEX>) PSR0=<HEX> PSR1=<HEX> PRXF=<HEX> PIXF=<HEX>",1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:2C:<NUM>:0D:<NUM>:EA:<NUM>:D3 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BE:A2:<NUM>:0D:<NUM>:E9:<NUM>:5D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D5:7E:<NUM>:0D:<NUM>:E9:2A:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:5B:<NUM>:0D:<NUM>:E9:<NUM>:A4 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> torus receiver z+ input pipe error(s) (dcr <HEX>) detected and corrected,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J18 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:C5:5A:<NUM>:0D:<NUM>:E9:3A:A5 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:C5:5A:<NUM>:0D:<NUM>:E9:3A:A5 and IP=/<IP> because java.lang.RuntimeException: Communication error: (DirectI,0
+NULL MONITOR FAILURE monitor caught java.lang.UnsupportedOperationException: power module U69 not present and is stopping,1
+RAS KERNEL INFO ciod: generated <NUM> core files for program ./ddcMDbglV1.<NUM>,0
+RAS KERNEL FATAL Lustre mount FAILED : <IONODE> : block_id : location,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:FF ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL inexact exception........................<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R16-M0-ND), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E3:AB:<NUM>:0D:<NUM>:E9:1C:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:DD:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:E6 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: R05-M0-NB,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:AB:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9D ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:FF:<NUM>:0D:<NUM>:E9:1D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:B3:<NUM>:0D:<NUM>:E9:1E:4C ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO byte ordering exception.....................<NUM>,0
+RAS KERNEL FATAL Lustre mount FAILED : <IONODE> : point <PATH>,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:F0:<NUM>:<NUM>:0D:<NUM>:E9:0F:D8 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL MONITOR FAILURE monitor caught java.lang.UnsupportedOperationException: power module U68 not present and is stopping,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C4:<NUM>:<NUM>:0D:<NUM>:E9:3B:F6 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EF:5D:<NUM>:0D:<NUM>:E9:<NUM>:A2 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D9:BE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL MONITOR FAILURE Link PGOOD error latched on link card,0
+RAS KERNEL FATAL command manager unit summary.....................<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:1F:<NUM>:<NUM>:0D:<NUM>:EA:E0:ED ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL INFO ciod: generated <NUM> core files for program <PATH>,0
+RAS KERNEL FATAL enable divide-by-zero exceptions.........<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:7C:<NUM>:0D:<NUM>:E9:1E:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on R33-M1-L0-U22-C bit <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:D1:<NUM>:0D:<NUM>:EA:E0:2E ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL CMCS INFO Running as background command,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R04-M0-NE), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EF:FD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BC:5F:<NUM>:0D:<NUM>:E9:<NUM>:A0 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL HARDWARE WARNING EndServiceAction <NUM> performed upon <NODE> by root,0
+RAS KERNEL FATAL no ethernet link,1
+"interrupts, <NUM> microseconds max time in a cr RAS KERNEL INFO <NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C5:<NUM>:<NUM>:0D:<NUM>:E9:3A:7D ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R10-M1-L2 <NUM> E (J13) --> R00-M0-L2 <NUM> D (J15) is present BUT the reverse cable R00-M0-L2 <NUM> E (J05) --> R10-M1-L2 <NUM> D (J07) is missing,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:EC:FF:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D7:FD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL FATAL memory manager / command manager address parity..<NUM>,0
+RAS APP FATAL ciod: Error reading message prefix after VERSION_MESSAGE on CioStream socket to <IP>: Link has been severed,1
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CC:DE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Link card(mLctn(R22-M1-L3), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:7D:DB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL FATAL start flushing...........................<NUM>,0
+RAS KERNEL FATAL prefetch depth for PLB slave.............<NUM>,0
+RAS KERNEL FATAL rts: bad message header: packet index <HEX> greater than max <NUM> (softheader=<HEX> <HEX> <HEX> <HEX>) PSR0=<HEX> PSR1=<HEX> PRXF=<HEX> PIXF=<HEX>,0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: A B C X+ X- Y+ Y- Z+ Z- got: A B C X+ X- Y+ Y- Z-,0
+RAS KERNEL FATAL fpr18=<HEX> ffffffff <HEX> <HEX>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:E7:1E:<NUM>:0D:<NUM>:E9:<NUM>:E1 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:E7:1E:<NUM>:0D:<NUM>:E9:<NUM>:E1 and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C0:E5:<NUM>:0D:<NUM>:E9:3F:1A ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:3D:<NUM>:0D:<NUM>:EA:<NUM>:C2 ip=<IP> v=<NUM> t=<NUM> status=M Fri Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C3:C6:<NUM>:0D:<NUM>:E9:3C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J05 do not match. VPD ecid <HEX>, found <HEX>",0
+RAS KERNEL FATAL enabled exception summary................<NUM>,0
+RAS MMCS INFO mmcs_db_server has been started: ./mmcs_db_server --useDatabase BGL --dbproperties db.properties --iolog <PATH> --reconnect-blocks all --shutdown-timeout <NUM> --shutdown-timeout <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:DC ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Power deactivated: R01-M1-NE,1
+RAS KERNEL FATAL fpr5=<HEX> <HEX> <HEX> <HEX>,0
+NULL DISCOVERY SEVERE While initializing node card iDo machine with LP of FF:F2:9F:<NUM>:DA:0B:<NUM>:0D:<NUM>:E9:<NUM>:F4 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:DA:0B:<NUM>:0D:<NUM>:E9:<NUM>:F4 and IP=/<IP> because java.lang.RuntimeException: Communication error: (D,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C4:F9:<NUM>:0D:<NUM>:E9:3B:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Fri Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D6:FC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:C7:FC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:8E ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL address parity error..<NUM>,0
+RAS KERNEL FATAL fpr23=<HEX> ffffffff ffffffff ffffffff,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R04-M0-NB), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:F8), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO critical input interrupt enable...<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EC:EB:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS APP FATAL ciod: Error loading ./ddcMDbglV: invalid or missing program image, Permission denied",0
+RAS KERNEL INFO <HEX> torus sender y+ retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:9B:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:1F:<NUM>:<NUM>:0D:<NUM>:EA:E0:DD ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DC:B3:<NUM>:0D:<NUM>:E9:<NUM>:4C ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R03-M1-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E5:8F:<NUM>:0D:<NUM>:E9:1A:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:CE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:F6 ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:0B:<NUM>:0D:<NUM>:EA:<NUM>:F4 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D3:<NUM>:<NUM>:0D:<NUM>:E9:2C:A6 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B0:BC:<NUM>:0D:<NUM>:E9:4F:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:DF ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D2:A8:<NUM>:0D:<NUM>:E9:2D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:EB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:2C:<NUM>:0D:<NUM>:E9:1E:D3 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL guaranteed instruction cache block touch.<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:BE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL FATAL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=<NUM>, cpu=<NUM>, index=<HEX>, total=<HEX>",1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D2:3F:<NUM>:0D:<NUM>:E9:2D:C0 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO auxiliary processor.........................<NUM>,0
+"RAS LINKCARD FATAL MidplaneSwitchController::receiveTrain() iap failed: R63-M0-L2-U21-A, status=ffbffbff <HEX>",1
+RAS KERNEL FATAL d-cache search parity error.......<NUM>,0
+RAS KERNEL FATAL max number of outstanding prefetches.....<NUM>,0
+RAS KERNEL FATAL <NUM>:<HEX> <NUM>:<HEX> <NUM>:ffffffff <NUM>:ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9A ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> torus sender x+ retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CE:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:9C ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> torus receiver y+ input pipe error(s) (dcr <HEX>) detected and corrected,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E7:B4:<NUM>:0D:<NUM>:E9:<NUM>:4B ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:CE:4A:<NUM>:0D:<NUM>:E9:<NUM>:B5), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R13-M0-L1 <NUM> F (J04) --> R03-M1-L1 <NUM> C (J06) is present BUT the reverse cable R03-M1-L1 <NUM> F (J12) --> R13-M0-L1 <NUM> C (J14) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E2:F5:<NUM>:0D:<NUM>:E9:1D:0A ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL capture valid.........<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D5:B5:<NUM>:0D:<NUM>:E9:2A:4A ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C2:B6:<NUM>:0D:<NUM>:E9:3D:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:F1:<NUM>:0D:<NUM>:E9:<NUM>:0E ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C0:<NUM>:<NUM>:0D:<NUM>:E9:3F:6A ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO total of <NUM> ddr error(s) detected and corrected over <NUM> seconds,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for tree B0 wire,0
+RAS KERNEL FATAL uncorrectable error...<NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C4:<NUM>:<NUM>:0D:<NUM>:E9:3B:E7), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL FATAL plus normalized number...................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:4A:<NUM>:0D:<NUM>:EA:<NUM>:B5 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL Target=ido://FF:F2:9F:<NUM>:D5:<NUM>:<NUM>:0D:<NUM>:E9:2A:FE<PATH> Message=Invalid JtagId = ffffffff Run environmental monitor to diagnose possible hardware failure.,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:BA:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL correctable error detected in directory <NUM>......<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:C5:<NUM>:0D:<NUM>:E9:1B:3A ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO <NUM> torus sender x- retransmission error(s) (dcr <HEX>) detected and corrected,0
+RAS KERNEL FATAL DDR failing data registers: <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:0F:<NUM>:0D:<NUM>:EA:<NUM>:F0 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:EA:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D1:2A:<NUM>:0D:<NUM>:E9:2E:D5), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:B6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:9D ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:F9 ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL enable inexact exceptions................<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E1:4A:<NUM>:0D:<NUM>:E9:1E:B5 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL machine check interrupt (bit=<HEX>): Torus<PATH> read error <NUM>,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:DD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:E1:<NUM>:0D:<NUM>:EA:<NUM>:1E ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL invalid operation exception (int cnvt)...<NUM>,0
+RAS KERNEL FATAL data read plb error...............<NUM>,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J02 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:DF:6B:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E6:0E:<NUM>:0D:<NUM>:E9:<NUM>:F1 ip=<IP> v=<NUM> t=<NUM> status=M Sun Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL plus denormalized number.................<NUM>,0
+NULL DISCOVERY SEVERE BglIdoChip table has <NUM> IDOs with the same IP address (<IP>),0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:B8:BF:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D7:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:B6 ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7C:C1:<NUM>:0D:<NUM>:EA:<NUM>:3E ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL HARDWARE WARNING EndServiceAction <NUM> performed upon R05-M1-N by root,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:C5:<NUM>:<NUM>:0D:<NUM>:E9:3A:CD), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C6:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:FE ip=<IP> v=<NUM> t=<NUM> status=M Fri Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS APP FATAL ciod: Error creating node map from file <PATH>: Device or resource busy,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:FB:<NUM>:0D:<NUM>:EA:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(<NODE>), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:D8:FE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY SEVERE While initializing service card iDo with LP of FF:F2:9F:<NUM>:1F:D2:<NUM>:0D:<NUM>:EA:E0:2D caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:<NUM>:1F:D2:<NUM>:0D:<NUM>:EA:E0:2D and IP=/<IP> because java.lang.RuntimeException: Communication error: (DirectIDo fo,0
+RAS KERNEL FATAL fpr31=<HEX> ffffffff <HEX> <HEX>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R01-M0-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:EC:8C:<NUM>:0D:<NUM>:E9:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E5:<NUM>:<NUM>:0D:<NUM>:E9:1A:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL DDR failing info register: DDR Fail Info Register: <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CC:C0:<NUM>:0D:<NUM>:E9:<NUM>:3F ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr13=<HEX> <HEX> <HEX> <HEX>,0
+"NULL HARDWARE WARNING com.ibm.bgldevices.BulkPowerModule with VPD of com.ibm.bgldevices.BulkPowerModule$VpdReply: IBM Part Number: 53P5763, Vendor: Cherokee International, Vendor Serial Number: <NUM>, Assembly Revision:  .A, Code Revision: B.<NUM>, Manufacture Date: during week <NUM> of <NUM>, Manuf",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D3:<NUM>:<NUM>:0D:<NUM>:E9:2C:CE ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down Node card(mLctn(R10-M0-NC), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:CF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:FF), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL HARDWARE WARNING PrepareForService is being done on this Midplane (mLctn(R61-M0), mCardSernum( <HEX>)) by root",0
+RAS KERNEL FATAL icache prefetch depth....................<NUM>,0
+RAS KERNEL INFO <NUM> torus receiver x+ input pipe error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+NULL HARDWARE WARNING EndServiceAction is restarting the Node cards in Midplane R01-M1 as part of Service Action <NUM>,0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R27-M1-L3 <NUM> F (J12) --> R07-M0-L3 <NUM> C (J14) is present BUT the reverse cable R07-M0-L3 <NUM> F (J04) --> R27-M1-L3 <NUM> C (J06) is missing,0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J15 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY ERROR Missing reverse cable: Cable R24-M1-L0 <NUM> F (J12) --> R04-M0-L0 <NUM> C (J14) is present BUT the reverse cable R04-M0-L0 <NUM> F (J04) --> R24-M1-L0 <NUM> C (J06) is missing,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:DE ip=<IP> v=<NUM> t=<NUM> status=M Fri Jul <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EF:E4:<NUM>:0D:<NUM>:E9:<NUM>:1B ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EC:AF:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO program interrupt,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E4:B6:<NUM>:0D:<NUM>:E9:1B:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL fpr26=<HEX> ffffffff <HEX> <HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:3C:<NUM>:0D:<NUM>:E9:<NUM>:C3 ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL lr=<HEX> cr=<HEX> xer=<HEX> ctr=<HEX>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CE:BD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:CC ip=<IP> v=<NUM> t=<NUM> status=M Tue Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E7:E6:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL FATAL external input interrupt (unit=<HEX> bit=<HEX>): torus sender y+ retransmission error was corrected,0
+RAS KERNEL INFO <HEX> torus sender x- retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+RAS KERNEL FATAL instruction TLB error interrupt,1
+RAS KERNEL INFO ddr: activating redundant bit steering for next allocation: rank=<NUM> symbol=<NUM>,0
+RAS KERNEL FATAL fpr3=<HEX> ffffffff ffffffff ffffffff,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D0:<NUM>:<NUM>:0D:<NUM>:E9:2F:7C ip=<IP> v=<NUM> t=<NUM> status=M Fri Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:2B:<NUM>:0D:<NUM>:E9:<NUM>:D4 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL HARDWARE WARNING PrepareForService shutting down NodeCard(mLctn(R00-M0-NF), mCardSernum(<HEX>), mLp(FF:F2:9F:<NUM>:E8:3D:<NUM>:0D:<NUM>:E9:<NUM>:C2), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+"NULL DISCOVERY WARNING Node card VPD check: U01 node in processor card slot J04 do not match. VPD ecid <HEX>, found <HEX>",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E6:BD:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CB:EC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0

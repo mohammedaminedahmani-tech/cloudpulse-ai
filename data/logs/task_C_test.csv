@@ -1,0 +1,228 @@
+text,label
+RAS KERNEL INFO iar 001069d0 dear 0245cd0c,0
+RAS KERNEL INFO iar 003a9260 dear 00f2a108,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J15 do not match. VPD ecid 075F04E8A27BFFFF0D0C1C904CF5, found 04D08138C52FFFFF0B091BC05CE4",0
+RAS KERNEL INFO iar 003a9260 dear 0129a628,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J10 do not match. VPD ecid 074C0DA08B2FFFFF10091AE11AD5, found 074504D6CA7BFFFF050B1B808ADE",0
+RAS KERNEL INFO iar 00149ee0 dear 008212d8,0
+RAS KERNEL INFO iar <NUM> dear 0245ad6c,0
+RAS KERNEL INFO <NUM> torus sender x+ retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+RAS KERNEL INFO iar 001061e8 dear 0244cc7c,0
+RAS KERNEL INFO iar 0014a150 dear 00a63458,0
+RAS KERNEL INFO iar 003a9294 dear 00b386f8,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J13 do not match. VPD ecid 04D581D5A12FFFFF060C1B9048DD, found <NUM>",0
+RAS KERNEL INFO <NUM> torus sender y+ retransmission error(s) (dcr <HEX>) detected and corrected over <NUM> seconds,0
+RAS KERNEL INFO iar 001066b4 dear 0252530c,0
+RAS KERNEL INFO iar 003a926c dear 00f29ea8,0
+RAS KERNEL INFO iar <NUM> dear 0244a19c,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J12 do not match. VPD ecid 04C280908A2FFFFF0A0C1A50D0C6, found 075D10514D2FFFFF05041B10CADA",0
+RAS KERNEL INFO iar 003a92a0 dear 00c06298,0
+RAS KERNEL INFO iar 003a929c dear 0129ab38,0
+RAS KERNEL INFO iar 003a9294 dear 00b372a8,0
+RAS KERNEL INFO iar 003a9260 dear 00ffbfa8,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J05 do not match. VPD ecid 04E38087132FFFFF0A041AA08ECE, found 04D380D81C2FFFFF0A031B2088D6",0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:4C:<NUM>:0D:<NUM>:E9:<NUM>:B3 ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 003a929c dear 0129a2b8,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid 074D0D51DE2FFFFF0E051BC054E5, found 07550D38DC2FFFFF05021C1088F1",0
+RAS KERNEL FATAL <NUM>:<NUM> <NUM>:1eeeeeee <NUM>:ffffffff <NUM>:00022ab3,0
+RAS KERNEL INFO iar <NUM> dear 0245b83c,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:EF:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CF ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"RAS KERNEL INFO NFS Mount failed on bglio61, slept <NUM> seconds, retrying (<NUM>)",0
+RAS KERNEL INFO iar 00149f88 dear 0099e5a8,0
+RAS KERNEL INFO iar 0014a1e4 dear 009acc78,0
+RAS KERNEL INFO iar 003a90f0 dear 00c05588,0
+RAS KERNEL INFO iar <NUM> dear 02f7ff1c,0
+RAS KERNEL INFO iar 003a9260 dear 013615d8,0
+RAS KERNEL INFO iar 003a9104 dear 00b35268,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7F:F2:<NUM>:0D:<NUM>:EA:<NUM>:0D ip=<IP> v=<NUM> t=<NUM> status=M Sat Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 003a929c dear 0129a3f8,0
+RAS KERNEL INFO iar 003a9288 dear 00b37e78,0
+RAS KERNEL INFO iar 001063a0 dear 02f67cac,0
+RAS KERNEL INFO iar 003a90d4 dear 00b37088,0
+RAS KERNEL INFO iar 0014a1e4 dear 007f2e28,0
+RAS KERNEL INFO iar 003a9260 dear 00f2a7e8,0
+RAS KERNEL INFO iar 003a9260 dear 00efd5d8,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CD:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:CF ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 003a926c dear 00f2a778,0
+RAS KERNEL INFO iar 0010653c dear 024648cc,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J02 do not match. VPD ecid 07400D45412FFFFF08031AE0CAD3, found 075304E2047BFFFF0A051C908EF4",0
+RAS KERNEL INFO iar 003a9294 dear 00b380e8,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:B8:EC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 003a929c dear 01299ad8,0
+RAS KERNEL INFO iar 003a9260 dear 00fcf858,0
+RAS KERNEL INFO iar 003a9254 dear 00f070e8,0
+"RAS KERNEL INFO NFS Mount failed on bglio929, slept <NUM> seconds, retrying (<NUM>)",0
+RAS KERNEL INFO iar 003a9274 dear 00f2cf38,0
+RAS KERNEL INFO iar 00149fc0 dear 0071be88,0
+RAS KERNEL INFO iar 003a926c dear 00f29fd8,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:E9:FC:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 00105e78 dear 02f587fc,0
+RAS KERNEL INFO iar <NUM> dear 02f823ac,0
+RAS KERNEL INFO iar 003a926c dear 00f2cab8,0
+RAS KERNEL INFO iar 00105e84 dear 02453f1c,0
+"RAS KERNEL INFO NFS Mount failed on bglio725, slept <NUM> seconds, retrying (<NUM>)",0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid 07430CF8CE2FFFFF03051BC09EE6, found 07610D721A2FFFFF0A0C1A7088C9",0
+RAS KERNEL INFO iar 003a9260 dear 00fcc4d8,0
+RAS KERNEL INFO iar <NUM> dear 024757ec,0
+RAS KERNEL INFO iar <NUM> dear 02f805dc,0
+RAS KERNEL FATAL Target=ido://FF:F2:9F:<NUM>:E8:1A:<NUM>:0D:<NUM>:E9:<NUM>:E5<PATH> Message=Invalid JtagId = ffffffff,0
+RAS KERNEL INFO iar 003a9260 dear 00e25de8,0
+RAS KERNEL INFO iar 003a9260 dear 00ef6858,0
+RAS KERNEL INFO iar 003a9260 dear 00ffd008,0
+RAS KERNEL INFO iar 001067c8 dear 02f7a3bc,0
+RAS KERNEL INFO iar 003a9260 dear 012976b8,0
+RAS KERNEL INFO iar 0014a150 dear 009ac718,0
+RAS KERNEL INFO iar 003a90e8 dear 00b36ee8,0
+RAS KERNEL INFO iar 003a929c dear 00efb858,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid 074904E0917BFFFF04071BB08ADF, found <NUM>",0
+RAS KERNEL INFO iar <NUM> dear 02f75cdc,0
+RAS KERNEL INFO iar 003a926c dear 00f29ee8,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J18 do not match. VPD ecid <NUM>, found 04C881D4DE2FFFFF020C1C6052EB",0
+RAS APP FATAL ciod: Error creating node map from file <PATH>: Resource temporarily unavailable,1
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:C3:F8:<NUM>:0D:<NUM>:E9:3C:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:D1:<NUM>:<NUM>:0D:<NUM>:E9:2E:FD ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL INFO iar 003a9260 dear 00e27098,0
+RAS KERNEL INFO iar 003a9294 dear 00b36418,0
+RAS KERNEL INFO iar 0014a150 dear 009a43d8,0
+RAS KERNEL INFO iar 003a9254 dear 01297bd8,0
+RAS KERNEL INFO iar <NUM> dear 0245ad4c,0
+RAS KERNEL INFO iar 003a926c dear 00f2cea8,0
+RAS KERNEL INFO ciod: Y coordinate <NUM> exceeds physical dimension <NUM> at line <NUM> of node map file <PATH>,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J14 do not match. VPD ecid 07500D44562FFFFF0A0D1AD094D1, found <NUM>",0
+RAS KERNEL INFO iar <NUM> dear 0245ceac,0
+RAS KERNEL INFO iar <NUM> dear 0245af1c,0
+RAS KERNEL INFO iar 003a9254 dear 00f06cc8,0
+RAS KERNEL INFO iar 0014a1e4 dear 00a7c378,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:CE:C2:<NUM>:0D:<NUM>:E9:<NUM>:3D ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 003a9294 dear 00b36de8,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:BE:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D9:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:EB ip=<IP> v=<NUM> t=<NUM> status=M Tue Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J17 do not match. VPD ecid 07600D521D2FFFFF04061B208ED5, found 07440DD8132FFFFF0E0C1B708CE3",0
+RAS KERNEL INFO iar 003a9254 dear 00fd6868,0
+RAS KERNEL INFO iar 003a92a0 dear 01291ef8,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J12 do not match. VPD ecid 076104C0CD7BFFFF05091AE08ED2, found 04DE80A8142FFFFF020A1BB09CE2",0
+RAS KERNEL INFO iar <NUM> dear 02f9723c,0
+RAS KERNEL FATAL parity error in write buffer...................<NUM>,0
+RAS KERNEL INFO iar <NUM> dear 02f998ec,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J16 do not match. VPD ecid 04E380D6622FFFFF090C1A9088CC, found 04CF80A6822FFFFF080C1B008CD4",0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J12 do not match. VPD ecid 07550DA0822FFFFF0A061AA0D6CE, found 04DB7DF2D67BFFFF060D1C2058EA",0
+RAS KERNEL INFO iar 003a9260 dear 00e282b8,0
+RAS KERNEL INFO iar <NUM> dear 0246541c,0
+RAS KERNEL INFO iar <NUM> dear 02f5667c,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J16 do not match. VPD ecid 04CE7DB71F7BFFFF03081BF090E7, found 04DF81C5472FFFFF02091B504EDE",0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:E0:<NUM>:<NUM>:0D:<NUM>:E9:1F:CF ip=<IP> v=<NUM> t=<NUM>,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D8:DB:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 003a92a0 dear 00b36ab8,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D1:<NUM>:<NUM>:0D:<NUM>:E9:2E:BC ip=<IP> v=<NUM> t=<NUM> status=M Fri Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 003a9260 dear 01290d58,0
+RAS KERNEL INFO iar 003a926c dear 00b36cf8,0
+NULL HARDWARE WARNING EndServiceAction is restarting the NodeCards in midplane R37-M0 as part of Service Action <NUM>,0
+RAS KERNEL FATAL <NUM>:<NUM> <NUM>:1eeeeeee <NUM>:ffffffff <NUM>:000aa0a7,0
+RAS KERNEL INFO iar 0014a150 dear 007064c8,0
+NULL MONITOR FAILURE monitor caught java.lang.IllegalStateException: while executing CONTROL Operation caught java.net.SocketException: Broken pipe and is stopping,0
+RAS KERNEL INFO iar 00106aa0 dear 0246deac,0
+RAS KERNEL INFO iar 003a929c dear 01298a98,0
+"NULL DISCOVERY INFO Node card VPD check: missing U01 node, VPD ecid 04E17DB75E7BFFFF09051BB08EE2 in processor card slot J03",0
+RAS KERNEL INFO iar 003a9108 dear 00b364a8,0
+RAS KERNEL INFO iar <NUM> dear 02f80a1c,0
+RAS KERNEL FATAL <NUM>:022c56b0 <NUM>:000000e3 <NUM>:00085fd8 <NUM>:<NUM>,0
+RAS KERNEL INFO critical input interrupt (unit=<HEX> bit=<HEX>): warning for tree C1 wire,0
+RAS KERNEL INFO iar <NUM> dear 02f75eec,0
+RAS KERNEL INFO iar 003a92a0 dear 0129ab48,0
+RAS KERNEL INFO iar <NUM> dear 02475a2c,0
+RAS KERNEL INFO iar 003a929c dear 00efe308,0
+RAS KERNEL INFO iar 003a9288 dear 00b36468,0
+RAS KERNEL FATAL imprecise machine check...........<NUM>,0
+RAS KERNEL INFO iar 0010620c dear 02f719dc,0
+"RAS APP FATAL ciod: Error loading ./runtime_time: invalid or missing program image, No such file or directory",0
+RAS KERNEL INFO iar 003a9260 dear 0135fee8,0
+RAS KERNEL INFO iar 003a9274 dear 00b36cd8,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J16 do not match. VPD ecid 04CA7DB7A27BFFFF0D0A1B70CEDD, found 04C57DB7837BFFFF0E041B704ADD",0
+RAS KERNEL INFO iar 003a9274 dear 00f2bfa8,0
+RAS KERNEL INFO iar 003a926c dear 00f28c18,0
+RAS KERNEL INFO iar <NUM> dear 02473cbc,0
+RAS KERNEL INFO iar 003a90fc dear 00b35cd8,0
+RAS KERNEL FATAL fpr23=<HEX> bc54056f <NUM> <NUM>,0
+RAS KERNEL INFO iar 0014a150 dear 0099b378,0
+RAS KERNEL INFO iar <NUM> dear 0fee9d0c,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J05 do not match. VPD ecid 07410D71962FFFFF08071A210CC3, found 074F0D020E2FFFFF08041B4084D9",0
+RAS KERNEL INFO iar <NUM> dear 0244baac,0
+RAS KERNEL INFO iar 0010653c dear 0245a63c,0
+RAS KERNEL INFO iar 003a9108 dear 00b36668,0
+RAS KERNEL INFO iar 0014a150 dear 00a27e68,0
+RAS KERNEL INFO iar 00149f88 dear 00a6f6e8,0
+RAS KERNEL INFO iar 00106b3c dear 0246f77c,0
+RAS KERNEL FATAL size of scratchpad portion of L3.........<NUM> (0M),0
+RAS KERNEL INFO iar 003a9260 dear 00e26898,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:B8:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:6D ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL INFO iar 003a9260 dear 00e276d8,0
+"NULL HARDWARE WARNING PrepareForService shutting down LinkCard(mLctn(R25-M1-L3), mCardSernum(203937503438383700000000594c31314b35303033303244), mLp(FF:F2:9F:<NUM>:7D:CD:<NUM>:0D:<NUM>:EA:<NUM>:<NUM>), mIp(<IP>), mType(<NUM>)) as part of Service Action <NUM>",0
+RAS KERNEL INFO iar 003a9260 dear 00e24858,0
+RAS KERNEL INFO iar 0014a1e4 dear 00a567b8,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:9B ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL INFO iar 003a9260 dear 00f29c48,0
+RAS KERNEL INFO iar <NUM> dear 0252523c,0
+RAS KERNEL INFO iar 003a9274 dear 00b386c8,0
+RAS KERNEL FATAL memory manager store buffer parity...............<NUM>,0
+RAS KERNEL INFO iar 00106ad4 dear 0248e10c,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J02 do not match. VPD ecid 07610DA09B2FFFFF04081B2088D8, found <NUM>",0
+RAS KERNEL FATAL <NUM>:069df3b0 <NUM>:06b563b0 <NUM>:066ccbc0 <NUM>:004d8f30,0
+"RAS KERNEL INFO NFS Mount failed on bglio676, slept <NUM> seconds, retrying (<NUM>)",0
+RAS KERNEL INFO program interrupt: unimplemented operation..<NUM>,0
+RAS KERNEL INFO iar 0014a150 dear 007036d8,0
+RAS KERNEL FATAL <NUM>:<NUM> <NUM>:1eeeeeee <NUM>:ffffffff <NUM>:000a7d6f,0
+RAS KERNEL INFO iar 003a92a0 dear 0129a568,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J11 do not match. VPD ecid 074104C0C97BFFFF0D071AF0C8D0, found <NUM>",0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J12 do not match. VPD ecid 04C080D7DE2FFFFF07041AE08AD5, found 04C080D8DC2FFFFF030C1CB04CF9",0
+RAS KERNEL INFO iar 003a9260 dear 00e27028,0
+RAS KERNEL INFO iar <NUM> dear 0245abdc,0
+RAS KERNEL INFO iar 003a926c dear 00f2cb28,0
+RAS KERNEL INFO iar 001061fc dear 02f6686c,0
+RAS KERNEL INFO iar 003a9260 dear 00efbfc8,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J12 do not match. VPD ecid 07540DA0552FFFFF010A1A314CC3, found 04E18201492FFFFF0A0919B1CEBC",0
+RAS KERNEL INFO iar 001067c4 dear 0246ddfc,0
+RAS KERNEL INFO iar 003a92a0 dear 00fcd378,0
+RAS KERNEL INFO iar 003a926c dear 00f2b668,0
+RAS KERNEL FATAL capture first EDRAM parity error address..<NUM>,0
+RAS KERNEL INFO iar 001063a8 dear 02f76f6c,0
+RAS KERNEL INFO iar 003a9260 dear 00e257d8,0
+RAS KERNEL INFO suppressing further interrupts of same type,0
+RAS KERNEL INFO iar 00149ee0 dear 0086fd38,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:7E:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:7F ip=<IP> v=<NUM> t=<NUM> status=M Tue Nov <NUM> <NUM>:<NUM>:<NUM> PST <NUM>,0
+RAS KERNEL INFO iar 00105e98 dear 02f7da9c,0
+"NULL DISCOVERY INFO Node card VPD check: U01 node in processor card slot J12 do not match. VPD ecid 074704C1147BFFFF0E0D1B20CAD8, found 07621024C42FFFFF0D0E1B308CDB",0
+RAS KERNEL FATAL rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X+ X- Y+ Z+ Z-,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J09 do not match. VPD ecid 074F0D50DE2FFFFF0B081A00C6BF, found 04C380870F2FFFFF0E0C1B2094D6",0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J12 do not match. VPD ecid 07560DD8522FFFFF09061A4116CA, found <NUM>",0
+RAS KERNEL INFO iar 003a9254 dear 00f06b08,0
+RAS KERNEL INFO iar <NUM> dear 02f803ac,0
+RAS KERNEL INFO iar 001069a0 dear 0246f78c,0
+RAS KERNEL INFO iar 0014a1e4 dear 0083f2c8,0
+RAS KERNEL INFO iar 003a926c dear 00f2be18,0
+RAS KERNEL INFO iar <NUM> dear 02f81f5c,0
+RAS KERNEL INFO iar 003a929c dear 00c07728,0
+RAS KERNEL INFO iar 0014a150 dear 0071b378,0
+"RAS APP FATAL ciod: Error loading <PATH>: program image too big, <NUM> > <NUM>",0
+RAS KERNEL INFO iar 003a9260 dear 00e28f58,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:1F:C6:<NUM>:0D:<NUM>:EA:E0:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Thu Aug <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+RAS KERNEL INFO iar 00106b8c dear 0245cf2c,0
+RAS KERNEL INFO iar 003a9260 dear 00f2c098,0
+RAS KERNEL INFO iar <NUM> dear 02f81acc,0
+RAS KERNEL INFO iar 0014a150 dear 0072b9f8,0
+RAS KERNEL INFO iar 00106b8c dear 0245cd9c,0
+RAS KERNEL INFO iar 003a92a0 dear 00efe128,0
+RAS KERNEL FATAL d-cache search parity error.......<NUM>,0
+RAS KERNEL INFO iar 00105e88 dear 02f7c79c,0
+RAS KERNEL INFO iar 0014a150 dear 00a59d68,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J10 do not match. VPD ecid 075D04C1237BFFFF0C071AA0C4CD, found 04C180A5D12FFFFF0C081B6082DC",0
+RAS KERNEL INFO iar <NUM> dear 02f566ac,0
+NULL DISCOVERY INFO Ido chip status changed: FF:F2:9F:<NUM>:D4:C8:<NUM>:0D:<NUM>:E9:2B:<NUM> ip=<IP> v=<NUM> t=<NUM> status=M Tue Sep <NUM> <NUM>:<NUM>:<NUM> PDT <NUM>,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:DC:<NUM>:<NUM>:0D:<NUM>:E9:<NUM>:<NUM> ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL INFO iar 00149f88 dear 009aa3f8,0
+RAS KERNEL INFO iar 0010639c dear 0245b77c,0
+NULL DISCOVERY INFO New ido chip inserted into the database: FF:F2:9F:<NUM>:7D:<NUM>:<NUM>:0D:<NUM>:EA:<NUM>:F8 ip=<IP> v=<NUM> t=<NUM>,0
+RAS KERNEL INFO iar 003a92a0 dear 00fccf38,0
+RAS KERNEL INFO iar 001061f8 dear 0245accc,0
+RAS KERNEL INFO iar <NUM> dear 02f7a20c,0
+RAS KERNEL INFO iar 001061b4 dear 0244c21c,0
+"NULL DISCOVERY INFO Node card VPD check: U11 node in processor card slot J15 do not match. VPD ecid 07550D52822FFFFF050A1B308ED7, found <NUM>",0
