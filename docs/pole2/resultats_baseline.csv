@@ -1,0 +1,7 @@
+entraine_sur,teste_sur,partie,f1_macro,f1_macro_std,accuracy,accuracy_std,rappel_anomalie,rappel_anomalie_std
+A,A,val,0.9645,0.0,0.9646,0.0,0.9892,0.0
+A,A,test,0.9525,0.0,0.9526,0.0,0.9947,0.0
+A,B,test,0.0718,0.0,0.0773,0.0,1.0,0.0
+B,A,test,0.3392,0.0,0.5026,0.0,0.0053,0.0
+B,B,val,0.8389,0.0,0.954,0.0,1.0,0.0
+B,B,test,0.8942,0.0,0.9669,0.0,0.8929,0.0
