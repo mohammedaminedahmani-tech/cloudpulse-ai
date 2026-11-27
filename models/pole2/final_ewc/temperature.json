@@ -1,0 +1,8 @@
+{
+  "temperature": 1.784670352935791,
+  "base": "Qwen/Qwen2.5-0.5B-Instruct",
+  "lambda": 10000.0,
+  "seed": 0,
+  "max_len": 256,
+  "methode": "lora+ewc"
+}
